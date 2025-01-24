@@ -4,4 +4,4 @@ pillow
 pypdf2
 gunicorn
 pandas
-sklearn
+scikit-learn
