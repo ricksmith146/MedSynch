@@ -2,3 +2,4 @@ flask
 pytesseract
 pillow
 pypdf2
+gunicorn
