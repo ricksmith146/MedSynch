@@ -3,3 +3,4 @@ pytesseract
 pillow
 pypdf2
 gunicorn
+pandas
