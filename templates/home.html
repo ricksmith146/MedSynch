@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Text, Image, and PDF Analysis Tool</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <style>
+        .hidden {
+            display: none;
+        }
+    </style>
+</head>
+<body class="bg-light">
+    <div class="container py-5">
+        <h1 class="text-center mb-4">Text, Image, and PDF Analysis Tool</h1>
+        <form action="{{ url_for('analyze') }}" method="post" enctype="multipart/form-data" class="needs-validation" novalidate>
+            <!-- Original Input -->
+            <div class="mb-4">
+                <h4>Original Report</h4>
+                <div class="mb-3">
+                    <input type="radio" name="input_type" id="text_input" value="text" checked>
+                    <label for="text_input">Enter Text</label>
+                    <input type="radio" name="input_type" id="image_input" value="image">
+                    <label for="image_input">Upload Image</label>
+                    <input type="radio" name="input_type" id="pdf_input" value="pdf">
+                    <label for="pdf_input">Upload PDF</label>
+                </div>
+                <div id="text_section">
+                    <textarea name="original_report" class="form-control" rows="5" placeholder="Enter original report text here..."></textarea>
+                </div>
+                <div id="image_section" class="hidden">
+                    <input type="file" name="original_image" class="form-control" accept="image/*">
+                </div>
+                <div id="pdf_section" class="hidden">
+                    <input type="file" name="original_pdf" class="form-control" accept="application/pdf">
+                </div>
+            </div>
+
+            <!-- Transcription Input -->
+            <div class="mb-4">
+                <h4>Transcription</h4>
+                <div class="mb-3">
+                    <input type="radio" name="wrong_input_type" id="wrong_text_input" value="text" checked>
+                    <label for="wrong_text_input">Enter Text</label>
+                    <input type="radio" name="wrong_input_type" id="wrong_image_input" value="image">
+                    <label for="wrong_image_input">Upload Image</label>
+                    <input type="radio" name="wrong_input_type" id="wrong_pdf_input" value="pdf">
+                    <label for="wrong_pdf_input">Upload PDF</label>
+                </div>
+                <div id="wrong_text_section">
+                    <textarea name="wrong_report" class="form-control" rows="5" placeholder="Enter transcription text here..."></textarea>
+                </div>
+                <div id="wrong_image_section" class="hidden">
+                    <input type="file" name="wrong_image" class="form-control" accept="image/*">
+                </div>
+                <div id="wrong_pdf_section" class="hidden">
+                    <input type="file" name="wrong_pdf" class="form-control" accept="application/pdf">
+                </div>
+            </div>
+
+            <div class="text-center">
+                <button type="submit" class="btn btn-primary">Analyze</button>
+            </div>
+        </form>
+    </div>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', function () {
+            const inputs = document.querySelectorAll('[name="input_type"], [name="wrong_input_type"]');
+            inputs.forEach(input => input.addEventListener('change', function () {
+                document.querySelectorAll('.hidden').forEach(section => section.classList.add('hidden'));
+                document.querySelector(`#${this.id.split('_input')[0]}_section`).classList.remove('hidden');
+            }));
+        });
+    </script>
+</body>
+</html>

@@ -1,0 +1,673 @@
+Condition,Medicine Names,Purpose
+Fever,"Paracetamol, Ibuprofen, Acetaminophen",Reduces fever and relieves pain
+Cold,"Antihistamines (Cetirizine, Loratadine), Decongestants (Pseudoephedrine, Phenylephrine)",Relieves nasal congestion and allergy symptoms
+Cough,"Dextromethorphan, Guaifenesin, Codeine",Suppresses cough and loosens mucus
+Stomach Ache,"Antacids (Ranitidine, Omeprazole), Antispasmodics (Dicyclomine)",Relieves abdominal pain and spasms
+Food Poisoning,"Oral Rehydration Salts (ORS), Metronidazole, Ciprofloxacin",Treats dehydration and bacterial infections
+Pain Management (Post-Surgery),"Paracetamol, Ibuprofen, Tramadol, Morphine",Relieves post-surgery pain
+Infection Prevention (Post-Surgery),"Amoxicillin, Ceftriaxone, Metronidazole",Prevents infections at the surgical site
+Blood Clot Prevention (Post-Surgery),"Heparin, Enoxaparin, Aspirin",Reduces the risk of blood clots
+Inflammation Control (Post-Surgery),"Prednisolone, Dexamethasone",Controls post-surgery inflammation
+Wound Healing Support (Post-Surgery),"Multivitamins, Zinc supplements, Collagen-based supplements",Supports faster healing of wounds
+Preoperative Medications,Midazolam,Sedative to relax the patient before surgery
+Preoperative Medications,Lorazepam,Sedative to reduce anxiety
+Preoperative Medications,Atropine,Reduces secretions and prevents bradycardia
+Preoperative Medications,Glycopyrrolate,Reduces respiratory and salivary secretions
+Preoperative Medications,Cefazolin,Prophylactic antibiotic to prevent infection
+Preoperative Medications,Cefuroxime,Antibiotic for surgical infection prevention
+Preoperative Medications,Ondansetron,Prevents nausea and vomiting during surgery
+Preoperative Medications,Metoclopramide,Reduces nausea and helps gastric emptying
+Preoperative Medications,Fentanyl,Pain management as part of anesthesia
+Generalized tonic-clonic seizures,"Phenytoin, Valproate, Levetiracetam","Stabilize neuronal membranes, prevent seizure spread, and modulate neurotransmitter release."
+Partial seizures (focal),"Carbamazepine, Lamotrigine",Block sodium channels to reduce nerve excitability and stabilize neuronal membranes.
+Absence seizures,"Ethosuximide, Valproate",Reduce abnormal calcium currents and suppress broad-spectrum seizures.
+Myoclonic seizures,"Valproate, Clonazepam",Enhance GABA effects to control sudden muscle jerks.
+Lennox-Gastaut syndrome,"Rufinamide, Clobazam",Prolong sodium channel inactivation and enhance GABA activity.
+Infantile spasms (West syndrome),"ACTH (Adrenocorticotropic Hormone), Vigabatrin",Hormonal therapy and increase inhibitory effects by inhibiting GABA breakdown.
+Febrile seizures,Diazepam,Provide acute control by enhancing GABA activity.
+Pain Management (Non-Opioid Analgesics),"Acetaminophen (Tylenol), Ibuprofen (Advil, Motrin), Naproxen (Aleve), Aspirin","Mild to moderate pain relief, inflammation reduction"
+Pain Management (Opioid Analgesics),"Morphine (MS Contin, Roxanol), Hydrocodone (Vicodin, Norco), Oxycodone (OxyContin, Percocet), Fentanyl (Duragesic, Sublimaze), Codeine","Severe pain relief, often post-surgery"
+Local Anesthesia,"Lidocaine (Xylocaine), Bupivacaine (Marcaine), Ropivacaine (Naropin)",Local numbing during procedures or fracture treatment
+Muscle Relaxants,"Cyclobenzaprine (Flexeril), Methocarbamol (Robaxin), Baclofen","To relieve muscle spasms, often associated with fractures"
+Pre-surgery Antibiotics,"Cefazolin (Ancef), Cephalexin (Keflex), Clindamycin (Cleocin)",Prophylactic antibiotics to prevent infections before surgery
+Post-surgery Antibiotics,"Ciprofloxacin (Cipro), Amoxicillin, Vancomycin, Clindamycin",To treat or prevent infections after surgery
+Blood Thinners,"Heparin, Enoxaparin (Lovenox), Warfarin (Coumadin), Rivaroxaban (Xarelto)","To prevent blood clots after surgery, especially in immobilized patients"
+Corticosteroids (Anti-inflammatory),"Prednisone, Dexamethasone, Methylprednisolone (Medrol)","To reduce inflammation, swelling, and pain after surgery or fractures"
+Anti-inflammatory Drugs,"Celecoxib (Celebrex), Diclofenac (Voltaren), Meloxicam (Mobic), Indomethacin (Indocin)","To reduce inflammation and pain, especially post-surgery or for fracture-related inflammation"
+Bone Health Medications,"Calcium, Vitamin D3, Alendronate (Fosamax), Risedronate (Actonel), Ibandronate (Boniva), Zoledronic acid (Reclast)",To promote bone healing and prevent further fractures
+Anxiolytics (Pre-surgery),"Diazepam (Valium), Lorazepam (Ativan), Midazolam (Versed), Alprazolam (Xanax)","To reduce anxiety before surgery, helping with relaxation"
+Antiplatelet Agents,"Aspirin, Clopidogrel (Plavix), Ticagrelor (Brilinta), Prasugrel (Effient)","To prevent blood clots, especially in coronary artery disease, post-stroke, or post-heart attack"
+Anticoagulants (Blood Thinners),"Warfarin (Coumadin), Apixaban (Eliquis), Rivaroxaban (Xarelto), Dabigatran (Pradaxa), Edoxaban (Savaysa)","To prevent and treat blood clots, atrial fibrillation, and other clot-related conditions"
+Beta-Blockers,"Metoprolol (Lopressor, Toprol XL), Atenolol (Tenormin), Carvedilol (Coreg), Bisoprolol (Zebeta), Propranolol (Inderal)","To manage high blood pressure, reduce heart rate, prevent arrhythmias, and manage heart failure"
+ACE Inhibitors (Angiotensin-Converting Enzyme Inhibitors),"Enalapril (Vasotec), Lisinopril (Prinivil, Zestril), Ramipril (Altace), Captopril (Capoten), Benazepril (Lotensin)","To treat high blood pressure, heart failure, and chronic kidney disease"
+ARBs (Angiotensin II Receptor Blockers),"Losartan (Cozaar), Valsartan (Diovan), Olmesartan (Benicar), Irbesartan (Avapro), Telmisartan (Micardis)","To manage high blood pressure, heart failure, and prevent kidney damage in diabetes"
+Calcium Channel Blockers,"Amlodipine (Norvasc), Diltiazem (Cardizem), Verapamil (Calan), Nifedipine (Procardia), Felodipine (Plendil)","To treat high blood pressure, angina, and arrhythmias"
+Diuretics,"Furosemide (Lasix), Hydrochlorothiazide (HCTZ), Spironolactone (Aldactone), Bumetanide (Bumex)","To reduce fluid buildup in heart failure, hypertension, and edema"
+Statins (HMG-CoA Reductase Inhibitors),"Atorvastatin (Lipitor), Simvastatin (Zocor), Rosuvastatin (Crestor), Pravastatin (Pravachol), Lovastatin (Mevacor)","To lower cholesterol and reduce the risk of heart attack, stroke, and other cardiovascular diseases"
+Nitrates,"Nitroglycerin, Isosorbide dinitrate, Isosorbide mononitrate",To relieve angina (chest pain) and improve blood flow to the heart
+Antiarrhythmic Drugs,"Amiodarone (Cordarone), Flecainide (Tambocor), Sotalol (Betapace), Propafenone (Rythmol)",To treat abnormal heart rhythms (arrhythmias)
+Vasodilators,"Hydralazine, Minoxidil, Sodium Nitroprusside",To relax blood vessels and improve blood flow in conditions like heart failure
+Heart Failure Medications,"Digoxin (Lanoxin), Sacubitril/Valsartan (Entresto), Ivabradine (Corlanor)","To treat heart failure, improve heart function, and reduce hospitalizations"
+Cholesterol Absorption Inhibitors,Ezetimibe (Zetia),To reduce cholesterol absorption from the intestines and lower LDL cholesterol
+PCSK9 Inhibitors,"Alirocumab (Praluent), Evolocumab (Repatha)",To lower LDL cholesterol in patients with familial hypercholesterolemia or those at high risk of cardiovascular events
+Potassium Channel Openers,Ivabradine (Corlanor),To slow heart rate in chronic heart failure or angina
+Antithrombotic Agents,"Fondaparinux (Arixtra), Dabigatran (Pradaxa), Enoxaparin (Lovenox)","To prevent and treat blood clots, especially after surgery or in deep vein thrombosis (DVT)"
+Antihypertensive Agents (Other),"Clonidine (Catapres), Hydralazine, Methyldopa",For the management of high blood pressure in various settings
+Antidepressants,"Selective Serotonin Reuptake Inhibitors (SSRIs): Fluoxetine (Prozac), Sertraline (Zoloft), Paroxetine (Paxil), Citalopram (Celexa), Escitalopram (Lexapro)","Used for treating depression, anxiety disorders, and other mood disorders"
+Major Depressive Disorder (MDD),"Serotonin-Norepinephrine Reuptake Inhibitors (SNRIs): Venlafaxine (Effexor), Duloxetine (Cymbalta)","Treat depression and anxiety by increasing the levels of serotonin and norepinephrine in the brain, which helps regulate mood and alleviate symptoms of mental health conditions."
+Migraine Prophylaxis,"Tricyclic Antidepressants (TCAs): Amitriptyline, Nortriptyline (Pamelor), Imipramine (Tofranil)","Treat depression by increasing the levels of serotonin and norepinephrine in the brain while blocking acetylcholine, which helps improve mood, alleviate depressive symptoms, and reduce anxiety."
+Anxiolytics (Anti-anxiety),"Diazepam (Valium), Lorazepam (Ativan), Clonazepam (Klonopin), Alprazolam (Xanax), Buspirone (Buspar)","Used for managing anxiety, panic attacks, and acute stress"
+Antipsychotics,"Olanzapine (Zyprexa), Risperidone (Risperdal), Quetiapine (Seroquel), Aripiprazole (Abilify), Clozapine (Clozaril)","Used for managing schizophrenia, bipolar disorder, and other psychotic disorders"
+Mood Stabilizers,"Lithium (Lithobid), Valproic Acid (Depakote), Lamotrigine (Lamictal), Carbamazepine (Tegretol), Topiramate (Topamax)",Used for treating mood disorders such as bipolar disorder
+Cognitive Enhancers (for Alzheimer's and Dementia),"Donepezil (Aricept), Rivastigmine (Exelon), Galantamine (Razadyne), Memantine (Namenda)",To manage symptoms of Alzheimer's disease and other dementias
+Stimulants (for ADHD),"Methylphenidate (Ritalin, Concerta), Amphetamine/Dextroamphetamine (Adderall, Mydayis), Dexmethylphenidate (Focalin), Lisdexamfetamine (Vyvanse)",Used for treating attention-deficit hyperactivity disorder (ADHD)
+Antiepileptics (Anticonvulsants),"Phenytoin (Dilantin), Valproic acid (Depakote), Carbamazepine (Tegretol), Levetiracetam (Keppra), Lamotrigine (Lamictal), Topiramate (Topamax), Gabapentin (Neurontin)",Used for preventing and treating seizures and epilepsy
+Parkinson’s Disease Medications,"Levodopa/Carbidopa (Sinemet), Pramipexole (Mirapex), Ropinirole (Requip), Bromocriptine (Parlodel), Selegiline (Eldepryl), Entacapone (Comtan)",Used for managing symptoms of Parkinson's disease
+Alzheimer’s Disease & Dementia Medications,"Donepezil (Aricept), Rivastigmine (Exelon), Galantamine (Razadyne), Memantine (Namenda)",Used to improve cognition and memory in Alzheimer's disease and other dementias
+Migraine Medications,"Triptans: Sumatriptan (Imitrex), Rizatriptan (Maxalt), Zolmitriptan (Zomig)",To treat and prevent migraine headaches
+Cluster Headaches,"Ergotamine derivatives: Ergotamine (Cafergot), Dihydroergotamine (DHE 45)",Treat acute migraine and cluster headaches by constricting blood vessels in the brain and reducing inflammation.
+"Arthritis (Osteoarthritis, Rheumatoid Arthritis)","Anti-inflammatory drugs: Ibuprofen, Naproxen (Aleve), Acetaminophen (Tylenol)","Relieve pain, reduce inflammation (except Acetaminophen, which is not anti-inflammatory), and lower fever."
+Multiple Sclerosis Medications,"Interferon beta (Avonex, Rebif), Glatiramer acetate (Copaxone), Dimethyl fumarate (Tecfidera), Natalizumab (Tysabri), Fingolimod (Gilenya)",Used for managing symptoms and progression of multiple sclerosis
+Sleep Disorders Medications,"Benzodiazepines: Temazepam (Restoril), Triazolam (Halcion)",To treat insomnia and other sleep disorders
+Insomnia,"Non-benzodiazepine hypnotics: Zolpidem (Ambien), Eszopiclone (Lunesta), Zaleplon (Sonata)","Treat insomnia by helping with sleep initiation, maintenance, or both."
+Insomnia (particularly difficulty with sleep onset).,Melatonin receptor agonists: Ramelteon (Rozerem),"To regulate sleep-wake cycles by mimicking the action of melatonin, promoting sleep onset without causing sedation or dependence."
+Chronic Pain & Neuropathic Pain Medications,"Gabapentin (Neurontin), Pregabalin (Lyrica), Duloxetine (Cymbalta), Amitriptyline (Elavil), Nortriptyline (Pamelor)","Used for managing chronic pain, including neuropathic pain"
+Stroke Medications,"Clopidogrel (Plavix), Aspirin, Dipyridamole (Persantine), Ticagrelor (Brilinta), Warfarin (Coumadin), Rivaroxaban (Xarelto), Apixaban (Eliquis)",Used for secondary prevention after a stroke or TIA (transient ischemic attack)
+"Brain Surgery (Anesthesia, Pre and Post Surgery)","Propofol (Diprivan), Sevoflurane (Ultane), Isoflurane, Fentanyl (Sublimaze), Ketamine, Remifentanil","Used for general anesthesia during surgery, and for pain management and sedation post-surgery"
+"Brain Surgery (Pain Management, Pre and Post Surgery)","Acetaminophen (Tylenol), Ibuprofen (Advil, Motrin), Gabapentin (Neurontin), Oxycodone (OxyContin), Morphine (MS Contin), Hydromorphone (Dilaudid)","To manage pain before and after brain surgery, including neuropathic pain relief"
+"Brain Surgery (Antibiotics, Pre and Post Surgery)","Cefazolin (Ancef), Clindamycin (Cleocin), Cephalexin (Keflex), Ceftriaxone (Rocephin), Vancomycin",To prevent or treat infections during and after brain surgery
+"Brain Surgery (Anticonvulsants, Seizure Prevention, Pre and Post Surgery)","Levetiracetam (Keppra), Phenytoin (Dilantin), Valproic acid (Depakote), Lamotrigine (Lamictal)",To prevent seizures after brain surgery or if at risk of seizures
+"Brain Surgery (Steroids, Pre and Post Surgery)","Dexamethasone (Decadron), Methylprednisolone (Medrol), Prednisone",To reduce inflammation and swelling around the brain post-surgery
+"Brain Surgery (Blood Thinners, Pre and Post Surgery)","Heparin, Enoxaparin (Lovenox), Warfarin (Coumadin), Apixaban (Eliquis), Rivaroxaban (Xarelto)","To prevent blood clots before and after brain surgery, especially in high-risk patients"
+"Heart Surgery (Anesthesia, Pre and Post Surgery)","Propofol (Diprivan), Sevoflurane (Ultane), Isoflurane, Fentanyl (Sublimaze), Ketamine, Remifentanil","Used for general anesthesia during surgery, and for pain management and sedation post-surgery"
+"Heart Surgery (Pain Management, Pre and Post Surgery)","Acetaminophen (Tylenol), Ibuprofen (Advil, Motrin), Gabapentin (Neurontin), Oxycodone (OxyContin), Morphine (MS Contin), Hydromorphone (Dilaudid)","To manage pain before and after heart surgery, including chronic pain relief post-surgery"
+"Heart Surgery (Antibiotics, Pre and Post Surgery)","Cefazolin (Ancef), Clindamycin (Cleocin), Cephalexin (Keflex), Ceftriaxone (Rocephin), Vancomycin","To prevent infections during and after heart surgery, especially for surgical site infections"
+"Heart Surgery (Blood Thinners, Pre and Post Surgery)","Heparin, Enoxaparin (Lovenox), Warfarin (Coumadin), Apixaban (Eliquis), Rivaroxaban (Xarelto)","To prevent blood clots before and after heart surgery, especially in high-risk patients"
+"Heart Surgery (Antiplatelet Agents, Post Surgery)","Aspirin, Clopidogrel (Plavix), Ticagrelor (Brilinta), Prasugrel (Effient)",To prevent blood clots and minimize the risk of heart attack or stroke after heart surgery
+"Heart Surgery (Beta-Blockers, Post Surgery)","Metoprolol (Lopressor), Atenolol (Tenormin), Carvedilol (Coreg), Bisoprolol (Zebeta)","To reduce heart rate and blood pressure after heart surgery, improving recovery and preventing complications"
+"Heart Surgery (Statins, Post Surgery)","Atorvastatin (Lipitor), Simvastatin (Zocor), Rosuvastatin (Crestor), Pravastatin (Pravachol)",To lower cholesterol and prevent further heart complications after surgery
+"Heart Surgery (Corticosteroids, Post Surgery)","Dexamethasone (Decadron), Methylprednisolone (Medrol)",Used post-surgery to reduce inflammation and swelling around the heart
+"Heart Surgery (Antiemetics, Post Surgery)","Ondansetron (Zofran), Metoclopramide (Reglan)",To prevent nausea and vomiting following heart surgery
+Acid Reflux (GERD),"Omeprazole (Prilosec), Esomeprazole (Nexium), Lansoprazole (Prevacid), Pantoprazole (Protonix), Rabeprazole (AcipHex), Ranitidine (Zantac), Famotidine (Pepcid), Tums, Maalox, Rolaids",Proton pump inhibitors (PPIs) and H2 blockers to reduce stomach acid production and relieve symptoms of heartburn and reflux. Antacids for temporary relief of acid.
+Peptic Ulcers,"Omeprazole (Prilosec), Esomeprazole (Nexium), Lansoprazole (Prevacid), Pantoprazole (Protonix), Ranitidine (Zantac), Sucralfate (Carafate), Bismuth subsalicylate (Pepto-Bismol), Clarithromycin, Amoxicillin, Metronidazole","To reduce acid and promote healing of the ulcer, along with antibiotics for H. pylori infection to eradicate the bacteria responsible for the ulcer."
+Gastritis,"Omeprazole (Prilosec), Lansoprazole (Prevacid), Ranitidine (Zantac), Antacids (e.g., Tums, Maalox), Sucralfate (Carafate), Misoprostol (Cytotec)","To reduce stomach acid, protect the stomach lining, and heal inflammation. Misoprostol used for preventing NSAID-induced gastritis."
+Irritable Bowel Syndrome (IBS),"Loperamide (Imodium), Diphenoxylate-atropine (Lomotil), Rifaximin (Xifaxan), Lubiprostone (Amitiza), Linaclotide (Linzess), Alosetron (Lotronex), Dicyclomine (Bentyl)","To relieve symptoms of diarrhea, constipation, bloating, and cramping associated with IBS."
+Gastroparesis,"Metoclopramide (Reglan), Erythromycin, Domperidone","To help with delayed gastric emptying, reduce nausea, and improve motility."
+Helicobacter Pylori Infection,"Clarithromycin, Amoxicillin, Metronidazole, Tetracycline, Levofloxacin, Bismuth subsalicylate (Pepto-Bismol)",Antibiotic therapy for eradicating H. pylori bacteria in the stomach lining and to promote ulcer healing.
+Stomach Pain/Indigestion,"Antacids (e.g., Tums, Maalox), Ranitidine (Zantac), Simethicone (Gas-X), Pepsid (Famotidine), Magnesium hydroxide, Sodium bicarbonate (Alka-Seltzer)","To relieve indigestion, bloating, and gas buildup."
+Nausea and Vomiting,"Ondansetron (Zofran), Promethazine (Phenergan), Meclizine (Antivert), Metoclopramide (Reglan), Prochlorperazine (Compazine), Scopolamine",To control nausea and vomiting due to various stomach issues or medications.
+Infectious Diarrhea,"Loperamide (Imodium), Diphenoxylate-atropine (Lomotil), Rifaximin (Xifaxan), Azithromycin, Ciprofloxacin",To treat bacterial infections causing diarrhea or to reduce symptoms of diarrhea.
+Constipation,"Polyethylene glycol (Miralax), Lactulose, Bisacodyl (Dulcolax), Senna (Ex-Lax), Fiber supplements (e.g., Metamucil), Docusate (Colace)",To relieve constipation and promote regular bowel movements.
+Stomach Cancer (Post-surgical Care),"Ondansetron (Zofran), Metoclopramide (Reglan), Antacids, Proton pump inhibitors (e.g., Pantoprazole, Omeprazole), Chemotherapy drugs (e.g., 5-Fluorouracil, Cisplatin, Docetaxel)","To manage nausea, acid reflux, and prevent complications after stomach cancer surgery. Chemotherapy for cancer treatment."
+Bloating and Gas,"Simethicone (Gas-X), Activated charcoal, Antacids (e.g., Tums), Ranitidine (Zantac), Lactase supplements","To relieve bloating, excess gas, and discomfort in the stomach and intestines."
+Acidic Stomach/Heartburn,"Antacids (e.g., Tums, Maalox, Rolaids), H2 blockers (e.g., Ranitidine, Famotidine), Proton pump inhibitors (e.g., Omeprazole, Lansoprazole)","To neutralize stomach acid, reduce heartburn symptoms, and prevent acid reflux."
+Acid Overproduction (Zollinger-Ellison Syndrome),"Omeprazole (Prilosec), Lansoprazole (Prevacid), Pantoprazole (Protonix), Cimetidine (Tagamet)",To control excessive acid production in the stomach due to Zollinger-Ellison syndrome.
+Functional Dyspepsia (Non-ulcer Stomach Pain),"Proton pump inhibitors (e.g., Omeprazole, Lansoprazole), H2 blockers (e.g., Famotidine), Antacids (e.g., Tums, Maalox), Prokinetic agents (e.g., Metoclopramide)","To relieve pain, bloating, and discomfort in the upper stomach area."
+Stomach Acid Reflux (LPR - Laryngopharyngeal Reflux),"Omeprazole (Prilosec), Lansoprazole (Prevacid), Famotidine (Pepcid), Ranitidine (Zantac), Antacids (e.g., Tums)",To reduce stomach acid and prevent damage to the throat and vocal cords caused by acid reflux.
+Hepatitis B,"Tenofovir (Viread), Entecavir (Baraclude), Lamivudine (Epivir), Adefovir (Hepsera), Interferon alfa-2b, Peginterferon alfa-2a (Pegasys), Emtricitabine (Emtriva)",Antiviral medications used to manage and suppress the replication of Hepatitis B virus (HBV).
+Hepatitis C,"Sofosbuvir (Sovaldi), Ledipasvir-Sofosbuvir (Harvoni), Simeprevir (Olysio), Daclatasvir (Daklinza), Ribavirin, Paritaprevir-Ritonavir-Ombitasvir (Viekira Pak), Glecaprevir-Pibrentasvir (Mavyret)",Direct-acting antivirals (DAAs) to cure or manage Hepatitis C infection and reduce liver damage.
+Fatty Liver Disease (NAFLD/NASH),"Pioglitazone (Actos), Vitamin E, Liraglutide (Saxenda), Obeticholic acid (Ocaliva), Simvastatin (Zocor), Statins, Ursodeoxycholic acid (UDCA)","Drugs to reduce fat accumulation in the liver, inflammation, and improve insulin resistance."
+Cirrhosis,"Beta-blockers (e.g., Propranolol, Nadolol), Lactulose, Rifaximin (Xifaxan), Spironolactone (Aldactone), Furosemide (Lasix), Terlipressin","Beta-blockers to prevent variceal bleeding, Lactulose for encephalopathy, and diuretics for fluid retention."
+Liver Fibrosis,"Pirfenidone (Esbriet), Nintedanib (Ofev), Obeticholic acid (Ocaliva), Interferon alfa-2b, Pentoxifylline",Drugs to slow the progression of liver fibrosis and reduce liver scarring.
+Liver Failure (Acute/Chronic),"N-acetylcysteine (NAC), Liver transplant (if necessary), Albumin, Antibiotics (e.g., Piperacillin-tazobactam, Meropenem)","N-acetylcysteine to treat acute liver failure (especially in acetaminophen overdose), liver transplantation for end-stage failure."
+Hepatic Encephalopathy,"Lactulose, Rifaximin (Xifaxan), Neomycin, Metronidazole",To treat hepatic encephalopathy caused by liver cirrhosis and toxins building up in the brain.
+"Liver Infections (Abscess, Sepsis)","Antibiotics (e.g., Piperacillin-tazobactam, Meropenem, Ceftriaxone), Antifungals (e.g., Fluconazole, Amphotericin B)",Antibiotics and antifungals to treat bacterial or fungal infections of the liver.
+Liver Transplant (Pre/Post-surgery),"Tacrolimus, Cyclosporine, Prednisone, Mycophenolate mofetil (Cellcept), Azathioprine (Imuran), Sirolimus",Immunosuppressive drugs to prevent organ rejection post-liver transplant and manage immune responses.
+Alcoholic Liver Disease (ALD),"Disulfiram (Antabuse), Naltrexone (ReVia), Acamprosate (Campral), Prednisone, Pentoxifylline","Medications to reduce alcohol cravings, manage inflammation, and prevent further liver damage."
+Liver Toxicity (Drug-induced),"N-acetylcysteine (NAC), Methionine, Ursodeoxycholic acid (UDCA)","Used to treat liver toxicity and protect the liver in cases of drug-induced liver injury (e.g., acetaminophen toxicity)."
+Liver Cancer (Hepatocellular Carcinoma),"Sorafenib (Nexavar), Lenvatinib (Lenvima), Regorafenib (Stivarga), Atezolizumab (Tecentriq), Nivolumab (Opdivo)","Targeted therapies, immune checkpoint inhibitors, and chemotherapies to treat liver cancer."
+Hemochromatosis (Iron Overload),"Deferoxamine (Desferal), Deferasirox (Exjade), Deferiprone (Ferriprox)",Iron chelation therapy to remove excess iron from the liver and prevent further organ damage.
+Wilson's Disease (Copper Overload),"Penicillamine, Trientine, Zinc acetate, Ammonium tetrathiomolybdate",Drugs to decrease copper accumulation in the liver and other organs in Wilson's disease.
+Cholestasis (Impaired Bile Flow),"Ursodeoxycholic acid (UDCA), Cholestyramine, Rifampin, Naltrexone",To improve bile flow and reduce symptoms of itching and jaundice caused by cholestasis.
+Irritable Bowel Syndrome (IBS),"Loperamide (Imodium), Diphenoxylate-atropine (Lomotil), Rifaximin (Xifaxan), Lubiprostone (Amitiza), Linaclotide (Linzess), Alosetron (Lotronex), Dicyclomine (Bentyl)","To relieve symptoms of diarrhea, constipation, bloating, and cramping."
+Crohn's Disease,"Mesalamine (Asacol), Sulfasalazine (Azulfidine), Prednisone, Budesonide (Entocort EC), Infliximab (Remicade), Adalimumab (Humira), Azathioprine (Imuran), Methotrexate",To reduce inflammation and immune response in Crohn’s disease.
+Ulcerative Colitis,"Mesalamine (Lialda), Sulfasalazine (Azulfidine), Infliximab (Remicade), Vedolizumab (Entyvio), Tofacitinib (Xeljanz), Azathioprine (Imuran), Prednisone, Budesonide",To treat inflammation and manage symptoms of ulcerative colitis.
+Infectious Diarrhea,"Azithromycin, Ciprofloxacin, Metronidazole, Rifaximin (Xifaxan), Loperamide (Imodium)",To treat bacterial infections causing diarrhea or to reduce diarrhea symptoms.
+Constipation,"Polyethylene glycol (Miralax), Lactulose, Bisacodyl (Dulcolax), Senna (Ex-Lax), Fiber supplements (e.g., Metamucil), Docusate (Colace)",To relieve constipation and promote bowel movements.
+Celiac Disease,"Gluten-free diet (primary treatment), Dapsone (for dermatitis herpetiformis)","Gluten avoidance to manage autoimmune response, Dapsone for skin symptoms."
+Small Intestinal Bacterial Overgrowth (SIBO),"Rifaximin (Xifaxan), Metronidazole, Neomycin",Antibiotics to reduce bacterial overgrowth in the small intestine.
+Intestinal Worm Infections,"Albendazole (Albenza), Mebendazole (Vermox), Ivermectin (Stromectol), Praziquantel (Biltricide)","Antiparasitic drugs to eliminate worm infections such as hookworm, roundworm, and tapeworm."
+Diverticulitis,"Ciprofloxacin, Metronidazole (Flagyl), Amoxicillin-Clavulanate (Augmentin), Trimethoprim-Sulfamethoxazole (Bactrim)",Antibiotics to treat infection and inflammation of diverticula.
+Colorectal Cancer (Adjuvant Therapy),"5-Fluorouracil (5-FU), Capecitabine (Xeloda), Oxaliplatin, Bevacizumab (Avastin)",Chemotherapy drugs to manage or treat colorectal cancer.
+Intestinal Obstruction,"Metoclopramide (Reglan), Nasogastric decompression, IV fluids, Antibiotics (e.g., Piperacillin-tazobactam)",Supportive treatment for partial obstructions; antibiotics to prevent infections.
+Inflammatory Bowel Disease (IBD),"Mesalamine (Apriso), Prednisone, Azathioprine (Imuran), Infliximab (Remicade), Ustekinumab (Stelara)",To control inflammation and manage chronic intestinal conditions like Crohn’s and ulcerative colitis.
+Anal Fissures,"Lidocaine ointment, Nifedipine cream, Nitroglycerin ointment",To relieve pain and promote healing of anal fissures.
+Hemorrhoids,"Hydrocortisone suppositories, Lidocaine, Witch hazel (Tucks pads), Phenylephrine (Preparation H)","To reduce swelling, pain, and irritation in hemorrhoids."
+Intestinal Perforation,"Broad-spectrum antibiotics (e.g., Piperacillin-tazobactam, Meropenem), Surgery","Antibiotics to prevent sepsis, surgical intervention to repair the perforation."
+Lactose Intolerance,"Lactase enzyme supplements, Calcium and Vitamin D supplements",To manage symptoms of lactose intolerance and prevent deficiencies.
+Appendicitis (Pre/Post-Surgery),"Cefoxitin, Cefazolin, Piperacillin-tazobactam, Metronidazole (Flagyl)",Antibiotics to prevent or treat infection before or after surgery.
+Gas and Bloating,"Simethicone (Gas-X), Activated charcoal, Alpha-galactosidase (Beano)",To relieve symptoms of gas and bloating.
+Whipple's Disease,"Ceftriaxone, Trimethoprim-Sulfamethoxazole (Bactrim)",Long-term antibiotics to treat Tropheryma whipplei infection.
+Ischemic Bowel Disease,"Anticoagulants (e.g., Heparin, Warfarin), Thrombolytics (e.g., Alteplase), Antibiotics",To restore blood flow and prevent infections in ischemic bowel.
+Short Bowel Syndrome,"Teduglutide (Gattex), Loperamide (Imodium), Vitamins and nutrient supplementation",To improve nutrient absorption and manage diarrhea in patients with short bowel syndrome.
+Liver (Pre-surgery),"Vitamin K, Fresh Frozen Plasma, Ceftriaxone, Piperacillin-Tazobactam","To manage coagulation, prevent bleeding, and prevent infections."
+Liver (Post-surgery),"Tacrolimus, Cyclosporine, Prednisone, Mycophenolate Mofetil, Ceftriaxone","Immunosuppressants to prevent rejection, antibiotics to prevent infection."
+Stomach (Pre-surgery),"Omeprazole, Pantoprazole, Metronidazole, Cefazolin","Proton pump inhibitors to reduce acid, antibiotics to prevent infection."
+Stomach (Post-surgery),"Ranitidine, Sucralfate, Pantoprazole, Ondansetron, Ceftriaxone","To manage acid secretion, promote healing, prevent nausea, and prevent infections."
+Intestines (Pre-surgery),"Metronidazole, Neomycin, Ceftriaxone, Piperacillin-Tazobactam","Antibiotics to prevent infection, especially in bowel preparations."
+Intestines (Post-surgery),"Rifaximin, Ciprofloxacin, Metronidazole, Ceftriaxone, Ondansetron","To prevent or treat infections, manage nausea, and promote recovery."
+Chronic Kidney Disease (CKD),"Erythropoietin-stimulating agents (Epoetin alfa, Darbepoetin alfa), Iron supplements (Ferrous sulfate), Sevelamer, Calcitriol, Sodium bicarbonate, Furosemide (Lasix), Torsemide","To treat anemia, manage mineral imbalances, and reduce fluid overload."
+Acute Kidney Injury (AKI),"Furosemide, Mannitol, Sodium bicarbonate, Insulin with glucose, Calcium gluconate","To manage fluid overload, electrolyte imbalances, and metabolic acidosis."
+Hypertensive Nephropathy,"ACE inhibitors (Lisinopril, Enalapril), ARBs (Losartan, Valsartan), Amlodipine",To control blood pressure and reduce kidney damage.
+Diabetic Nephropathy,"ACE inhibitors (Lisinopril, Enalapril), ARBs (Losartan, Valsartan), Sodium-glucose cotransporter-2 inhibitors (Canagliflozin, Dapagliflozin)","To control blood pressure, reduce proteinuria, and manage blood sugar."
+Kidney Stones,"Tamsulosin (Flomax), Potassium citrate, Allopurinol, Pain relievers (Ibuprofen, Acetaminophen)","To facilitate stone passage, prevent new stones, and relieve pain."
+Polycystic Kidney Disease (PKD),"Tolvaptan (Jynarque), ACE inhibitors, ARBs",To slow disease progression and manage hypertension.
+Glomerulonephritis,"Prednisone, Cyclophosphamide, Mycophenolate mofetil, Rituximab",To reduce inflammation and manage autoimmune causes.
+Urinary Tract Infection (UTI),"Nitrofurantoin, Trimethoprim-sulfamethoxazole (Bactrim), Ciprofloxacin, Fosfomycin",To treat bacterial infections in the urinary tract and kidneys.
+Nephrotic Syndrome,"Prednisone, Cyclosporine, Tacrolimus, Mycophenolate mofetil",To manage proteinuria and reduce inflammation.
+Hyperkalemia (Kidney-related),"Sodium polystyrene sulfonate (Kayexalate), Patiromer (Veltassa), Insulin with glucose, Calcium gluconate",To reduce potassium levels and protect the heart from arrhythmias.
+Renal Osteodystrophy,"Calcitriol, Paricalcitol, Sevelamer, Calcium acetate",To manage bone disorders caused by kidney disease.
+End-Stage Renal Disease (ESRD),"Erythropoietin-stimulating agents, Phosphate binders, Vitamin D analogs, Heparin","To manage anemia, mineral imbalances, and prevent clotting during dialysis."
+Kidney Transplant (Post-surgery),"Tacrolimus, Cyclosporine, Mycophenolate mofetil, Prednisone",Immunosuppressants to prevent organ rejection.
+Renal Tubular Acidosis,"Sodium bicarbonate, Potassium citrate",To correct acid-base imbalance.
+Acute Pyelonephritis,"Ceftriaxone, Ciprofloxacin, Levofloxacin, Amoxicillin-clavulanate",To treat bacterial infections of the kidney.
+Chronic Obstructive Pulmonary Disease (COPD),"Salmeterol (Serevent), Formoterol (Foradil), Tiotropium (Spiriva), Ipratropium (Atrovent), Fluticasone (Flovent), Budesonide (Pulmicort), Roflumilast (Daliresp), Prednisone","To reduce symptoms, improve airflow, prevent flare-ups, and manage inflammation."
+Asthma,"Albuterol (Ventolin, ProAir), Salmeterol (Serevent), Fluticasone (Flovent), Budesonide (Pulmicort), Montelukast (Singulair), Theophylline, Prednisone","To relieve acute symptoms, reduce inflammation, and prevent asthma attacks."
+Pneumonia,"Ceftriaxone, Azithromycin, Levofloxacin, Amoxicillin-clavulanate (Augmentin), Meropenem, Vancomycin",To treat bacterial infections of the lungs.
+Pulmonary Fibrosis,"Pirfenidone (Esbriet), Nintedanib (Ofev), Corticosteroids (Prednisone), Oxygen therapy",To slow disease progression and manage inflammation.
+Tuberculosis (TB),"Rifampin, Isoniazid, Pyrazinamide, Ethambutol, Bedaquiline, Amikacin",To treat active tuberculosis infection and prevent its spread.
+Acute Respiratory Distress Syndrome (ARDS),"Mechanical ventilation, Oxygen therapy, Sedation, Corticosteroids (Dexamethasone, Methylprednisolone), Nitric oxide",To manage severe respiratory failure and reduce inflammation.
+Chronic Bronchitis,"Ipratropium (Atrovent), Tiotropium (Spiriva), Salmeterol (Serevent), Fluticasone (Flovent), Prednisone","To reduce inflammation, improve airflow, and treat exacerbations."
+Emphysema,"Tiotropium (Spiriva), Salmeterol (Serevent), Fluticasone (Flovent), Albuterol (Ventolin), Oxygen therapy",To improve airflow and oxygenation in patients with lung damage.
+Lung Cancer (Non-small cell & Small cell),"Cisplatin, Carboplatin, Paclitaxel, Docetaxel, Gemcitabine, Pembrolizumab (Keytruda), Nivolumab (Opdivo), Erlotinib (Tarceva)",To treat and manage various types of lung cancer.
+Cystic Fibrosis,"Ivacaftor (Kalydeco), Lumacaftor/Ivacaftor (Orkambi), Dornase alfa (Pulmozyme), Tobramycin (TOBI), Azithromycin",To improve lung function and manage respiratory infections.
+Sleep Apnea,"CPAP (Continuous Positive Airway Pressure), Modafinil (Provigil), Theophylline",To manage obstructive sleep apnea and improve airflow during sleep.
+Pneumothorax (Collapsed lung),"Oxygen therapy, Analgesics (e.g., Morphine), Chest tube, Pleurodesis (Talc or other agents)",To re-expand the lung and relieve pain.
+Interstitial Lung Disease (ILD),"Prednisone, Azathioprine, Cyclophosphamide, Mycophenolate mofetil, Pirfenidone, Nintedanib",To manage inflammation and fibrosis in the lungs.
+Pulmonary Hypertension,"Sildenafil (Revatio), Bosentan (Tracleer), Ambrisentan (Letairis), Epoprostenol (Flolan), Treprostinil (Remodulin)",To reduce pulmonary artery pressure and improve heart function.
+Bronchiectasis,"Antibiotics (Amoxicillin-clavulanate, Ciprofloxacin, Azithromycin), Inhaled corticosteroids, Hypertonic saline",To treat infections and manage symptoms in patients with damaged airways.
+Lung Transplant (Post-surgery),"Tacrolimus, Cyclosporine, Mycophenolate mofetil, Prednisone, Azithromycin",To prevent organ rejection and treat infections post-transplant
+Neck Fracture (Pre-surgery),"Analgesics: Ibuprofen, Acetaminophen, Morphine, Oxycodone, Fentanyl",Pain management before surgery.
+Neck Fracture (Post-surgery),"Pain relievers: Acetaminophen (Tylenol), Ibuprofen, Morphine, Hydrocodone, Fentanyl",To manage post-operative pain.
+Neck Fracture (Muscle Spasm Relief),"Cyclobenzaprine (Flexeril), Methocarbamol (Robaxin), Baclofen, Tizanidine (Zanaflex)",To relieve muscle spasms that may result from neck fractures.
+Neck Fracture (Inflammation),"Prednisone, Dexamethasone, Methylprednisolone, Ibuprofen, Naproxen (Aleve)",To reduce inflammation and swelling around the fracture site.
+Neck Fracture (Infection Prevention),"Cefazolin, Piperacillin-tazobactam (Zosyn), Vancomycin, Clindamycin",Antibiotics to prevent or treat infections related to the fracture or surgery.
+Neck Fracture (Osteoporosis-related),"Bisphosphonates (Alendronate, Risedronate), Calcitonin, Teriparatide (Forteo)","To treat or prevent osteoporosis, which can contribute to fractures."
+Kidney Surgery (Pre-surgery),"Antibiotics: Ceftriaxone, Piperacillin-tazobactam (Zosyn), Vancomycin, Metronidazole",To prevent infection and manage any underlying conditions.
+Kidney Surgery (Pre-surgery),"Analgesics: Acetaminophen, Ibuprofen, Fentanyl, Morphine",Pain relief before surgery.
+Kidney Surgery (Pre-surgery),"Sodium bicarbonate, Potassium supplements",To balance electrolytes and fluids before surgery.
+Kidney Surgery (Post-surgery),"Pain relievers: Acetaminophen, Hydrocodone, Oxycodone, Fentanyl",To manage pain after surgery.
+Kidney Surgery (Post-surgery),"Immunosuppressants (for transplant): Tacrolimus, Cyclosporine, Mycophenolate mofetil, Prednisone",To prevent organ rejection after kidney transplant surgery.
+Kidney Surgery (Post-surgery),"Antibiotics: Ciprofloxacin, Vancomycin, Clindamycin",To prevent infection after surgery.
+Kidney Surgery (Post-surgery),"Diuretics: Furosemide (Lasix), Torsemide",To manage fluid balance after surgery.
+Lung Surgery (Pre-surgery),"Antibiotics: Ceftriaxone, Piperacillin-tazobactam (Zosyn), Levofloxacin, Vancomycin",To prevent infection and manage any underlying conditions.
+Lung Surgery (Pre-surgery),"Pain relievers: Acetaminophen, Ibuprofen, Morphine, Fentanyl",To manage pain before surgery.
+Lung Surgery (Pre-surgery),"Bronchodilators: Albuterol (Ventolin), Salmeterol (Serevent), Ipratropium (Atrovent)",To open airways and improve lung function before surgery.
+Lung Surgery (Post-surgery),"Pain relievers: Acetaminophen, Oxycodone, Fentanyl, Hydrocodone",To manage pain after surgery.
+Lung Surgery (Post-surgery),"Antibiotics: Ceftriaxone, Levofloxacin, Azithromycin, Vancomycin",To prevent infections after surgery.
+Lung Surgery (Post-surgery),"Steroids: Prednisone, Methylprednisolone, Dexamethasone",To reduce inflammation post-surgery.
+Lung Surgery (Post-surgery),"Oxygen therapy, Mechanical ventilation",To assist breathing after surgery.
+Lung Surgery (Post-surgery),"Anticoagulants: Heparin, Enoxaparin (Lovenox)",To prevent blood clots post-surgery.
+Wrist Fracture (Pre-surgery),"Pain relievers: Ibuprofen, Acetaminophen, Morphine, Fentanyl",To manage pain before surgery.
+Wrist Fracture (Post-surgery),"Pain relievers: Acetaminophen, Hydrocodone, Oxycodone, Fentanyl, Ibuprofen",To manage pain after surgery.
+Wrist Fracture (Muscle Spasm Relief),"Cyclobenzaprine (Flexeril), Methocarbamol (Robaxin), Baclofen, Tizanidine (Zanaflex)",To relieve muscle spasms around the wrist area after the fracture.
+Wrist Fracture (Inflammation),"Prednisone, Dexamethasone, Ibuprofen, Naproxen (Aleve)",To reduce inflammation and swelling around the fracture site.
+Wrist Fracture (Infection Prevention),"Cefazolin, Piperacillin-tazobactam (Zosyn), Clindamycin, Vancomycin",To prevent or treat infections related to the fracture or surgery.
+Wrist Fracture (Bone Healing),"Calcium, Vitamin D3, Bisphosphonates (Alendronate, Risedronate)",To support bone healing and prevent further bone loss.
+Finger Fracture (Pre-surgery),"Pain relievers: Ibuprofen, Acetaminophen, Morphine, Fentanyl",To manage pain before surgery.
+Finger Fracture (Post-surgery),"Pain relievers: Acetaminophen, Hydrocodone, Oxycodone, Fentanyl, Ibuprofen",To manage pain after surgery.
+Finger Fracture (Muscle Spasm Relief),"Cyclobenzaprine (Flexeril), Methocarbamol (Robaxin), Baclofen, Tizanidine (Zanaflex)",To relieve muscle spasms that may occur around the fractured area.
+Finger Fracture (Inflammation),"Prednisone, Dexamethasone, Ibuprofen, Naproxen (Aleve)",To reduce inflammation and swelling around the fracture site.
+Finger Fracture (Infection Prevention),"Cefazolin, Piperacillin-tazobactam (Zosyn), Clindamycin, Vancomycin",To prevent or treat infections related to the fracture or surgery.
+Finger Fracture (Bone Healing),"Calcium, Vitamin D3, Bisphosphonates (Alendronate, Risedronate)",To support bone healing and prevent further bone loss
+Elbow Fracture (Pre-surgery),"Pain relievers: Ibuprofen, Acetaminophen, Morphine, Fentanyl",To manage pain before surgery.
+Elbow Fracture (Pre-surgery),"Muscle relaxants: Cyclobenzaprine (Flexeril), Methocarbamol (Robaxin), Baclofen",To alleviate muscle spasms around the fracture site.
+Elbow Fracture (Post-surgery),"Pain relievers: Acetaminophen, Hydrocodone, Oxycodone, Fentanyl, Ibuprofen",To manage pain after surgery.
+Elbow Fracture (Post-surgery),"Anti-inflammatory: Prednisone, Dexamethasone, Ibuprofen, Naproxen (Aleve)",To reduce inflammation and swelling after surgery.
+Elbow Fracture (Infection Prevention),"Cefazolin, Piperacillin-tazobactam (Zosyn), Clindamycin, Vancomycin",To prevent or treat infections related to the fracture or surgery.
+Elbow Fracture (Bone Healing),"Calcium, Vitamin D3, Bisphosphonates (Alendronate, Risedronate)",To promote bone healing and prevent bone loss.
+Elbow Fracture (Muscle Spasm Relief),"Tizanidine (Zanaflex), Baclofen, Methocarbamol (Robaxin)",To reduce muscle spasms following the injury.
+Arm Fracture (Pre-surgery),"Pain relievers: Ibuprofen, Acetaminophen, Morphine, Fentanyl",To manage pain before surgery.
+Arm Fracture (Post-surgery),"Pain relievers: Acetaminophen, Hydrocodone, Oxycodone, Fentanyl, Ibuprofen",To manage pain after surgery.
+Arm Fracture (Muscle Spasm Relief),"Cyclobenzaprine (Flexeril), Methocarbamol (Robaxin), Baclofen, Tizanidine (Zanaflex)",To alleviate muscle spasms around the fracture site.
+Arm Fracture (Inflammation),"Prednisone, Dexamethasone, Ibuprofen, Naproxen (Aleve)",To reduce inflammation and swelling around the fracture.
+Arm Fracture (Infection Prevention),"Cefazolin, Piperacillin-tazobactam (Zosyn), Clindamycin, Vancomycin",To prevent or treat infections related to the fracture or surgery.
+Arm Fracture (Bone Healing),"Calcium, Vitamin D3, Bisphosphonates (Alendronate, Risedronate)",To support bone healing and prevent bone loss.
+Knee Fracture (Pre-surgery),"Pain relievers: Ibuprofen, Acetaminophen, Morphine, Fentanyl",To manage pain before surgery.
+Knee Fracture (Post-surgery),"Pain relievers: Acetaminophen, Hydrocodone, Oxycodone, Fentanyl, Ibuprofen",To manage pain after surgery.
+Knee Fracture (Muscle Spasm Relief),"Cyclobenzaprine (Flexeril), Methocarbamol (Robaxin), Baclofen, Tizanidine (Zanaflex)",To alleviate muscle spasms around the knee area after the fracture.
+Knee Fracture (Inflammation),"Prednisone, Dexamethasone, Ibuprofen, Naproxen (Aleve)",To reduce inflammation and swelling around the fracture site.
+Knee Fracture (Infection Prevention),"Cefazolin, Piperacillin-tazobactam (Zosyn), Clindamycin, Vancomycin",To prevent or treat infections related to the fracture or surgery.
+Knee Fracture (Bone Healing),"Calcium, Vitamin D3, Bisphosphonates (Alendronate, Risedronate)",To support bone healing and prevent bone loss.
+ACL Injury (Pre-surgery),"Pain relievers: Ibuprofen, Acetaminophen, Morphine, Fentanyl",To manage pain before surgery.
+ACL Injury (Post-surgery),"Pain relievers: Acetaminophen, Hydrocodone, Oxycodone, Fentanyl, Ibuprofen",To manage pain after ACL surgery.
+ACL Injury (Muscle Spasm Relief),"Cyclobenzaprine (Flexeril), Methocarbamol (Robaxin), Baclofen, Tizanidine (Zanaflex)",To alleviate muscle spasms after ACL surgery.
+ACL Injury (Inflammation),"Prednisone, Dexamethasone, Ibuprofen, Naproxen (Aleve)",To reduce inflammation and swelling after ACL surgery.
+ACL Injury (Rehabilitation),"Non-steroidal anti-inflammatory drugs (NSAIDs): Ibuprofen, Naproxen (Aleve)",To reduce pain and inflammation during rehabilitation.
+ACL Injury (Infection Prevention),"Cefazolin, Vancomycin, Clindamycin",To prevent infections following surgery.
+Biceps Muscle Tear,"Pain relievers: Ibuprofen, Acetaminophen, Morphine, Fentanyl",To manage pain from the biceps muscle tear.
+Biceps Muscle Tear,"Muscle relaxants: Cyclobenzaprine (Flexeril), Methocarbamol (Robaxin), Baclofen",To alleviate muscle spasms around the biceps area.
+Biceps Muscle Tear (Inflammation),"Prednisone, Dexamethasone, Ibuprofen, Naproxen (Aleve)",To reduce inflammation around the biceps muscle.
+Biceps Muscle Tear (Bone Healing),"Calcium, Vitamin D3, Bisphosphonates (Alendronate, Risedronate)",To support bone healing if the injury affects the surrounding bones.
+Quadriceps Muscle Tear,"Pain relievers: Ibuprofen, Acetaminophen, Morphine, Fentanyl",To manage pain from the quadriceps muscle tear.
+Quadriceps Muscle Tear,"Muscle relaxants: Cyclobenzaprine (Flexeril), Methocarbamol (Robaxin), Baclofen",To relieve muscle spasms in the quadriceps.
+Quadriceps Muscle Tear (Inflammation),"Prednisone, Dexamethasone, Ibuprofen, Naproxen (Aleve)",To reduce inflammation in the quadriceps muscle.
+Hamstring Muscle Tear,"Pain relievers: Ibuprofen, Acetaminophen, Morphine, Fentanyl",To manage pain from the hamstring muscle tear.
+Hamstring Muscle Tear,"Muscle relaxants: Cyclobenzaprine (Flexeril), Methocarbamol (Robaxin), Baclofen",To relieve muscle spasms in the hamstrings.
+Hamstring Muscle Tear (Inflammation),"Prednisone, Dexamethasone, Ibuprofen, Naproxen (Aleve)",To reduce inflammation in the hamstring muscles.
+Calf Muscle Tear (Gastrocnemius),"Pain relievers: Ibuprofen, Acetaminophen, Morphine, Fentanyl",To manage pain from the calf muscle (Gastrocnemius) tear.
+Calf Muscle Tear (Gastrocnemius),"Muscle relaxants: Cyclobenzaprine (Flexeril), Methocarbamol (Robaxin), Baclofen",To relieve muscle spasms in the calf muscles.
+Calf Muscle Tear (Gastrocnemius),"Prednisone, Dexamethasone, Ibuprofen, Naproxen (Aleve)",To reduce inflammation around the calf muscle.
+Deltoid Muscle Tear,"Pain relievers: Ibuprofen, Acetaminophen, Morphine, Fentanyl",To manage pain from the deltoid muscle tear.
+Deltoid Muscle Tear,"Muscle relaxants: Cyclobenzaprine (Flexeril), Methocarbamol (Robaxin), Baclofen",To alleviate muscle spasms in the deltoid muscle.
+Deltoid Muscle Tear (Inflammation),"Prednisone, Dexamethasone, Ibuprofen, Naproxen (Aleve)",To reduce inflammation around the deltoid muscle.
+Pectoral Muscle Tear (Chest),"Pain relievers: Ibuprofen, Acetaminophen, Morphine, Fentanyl",To manage pain from the pectoral muscle tear.
+Pectoral Muscle Tear (Chest),"Muscle relaxants: Cyclobenzaprine (Flexeril), Methocarbamol (Robaxin), Baclofen",To relieve muscle spasms in the pectoral muscles.
+Pectoral Muscle Tear (Chest),"Prednisone, Dexamethasone, Ibuprofen, Naproxen (Aleve)",To reduce inflammation around the chest muscles.
+Trapezius Muscle Tear,"Pain relievers: Ibuprofen, Acetaminophen, Morphine, Fentanyl",To manage pain from the trapezius muscle tear.
+Trapezius Muscle Tear,"Muscle relaxants: Cyclobenzaprine (Flexeril), Methocarbamol (Robaxin), Baclofen",To relieve muscle spasms in the trapezius.
+Trapezius Muscle Tear (Inflammation),"Prednisone, Dexamethasone, Ibuprofen, Naproxen (Aleve)",To reduce inflammation in the trapezius muscle.
+Biceps Muscle Tear (Pre-surgery),"Pain relievers: Ibuprofen, Acetaminophen, Morphine, Fentanyl",To manage pain before surgery.
+Biceps Muscle Tear (Post-surgery),"Pain relievers: Acetaminophen, Hydrocodone, Oxycodone, Fentanyl, Ibuprofen",To manage pain after surgery.
+Biceps Muscle Tear (Muscle Spasm Relief),"Cyclobenzaprine (Flexeril), Methocarbamol (Robaxin), Baclofen",To alleviate muscle spasms after surgery.
+Biceps Muscle Tear (Inflammation),"Prednisone, Dexamethasone, Ibuprofen, Naproxen (Aleve)",To reduce inflammation after surgery.
+Biceps Muscle Tear (Bone Healing),"Calcium, Vitamin D3, Bisphosphonates (Alendronate, Risedronate)",To support bone healing if the tear affects bones.
+Quadriceps Muscle Tear (Pre-surgery),"Pain relievers: Ibuprofen, Acetaminophen, Morphine, Fentanyl",To manage pain before surgery.
+Quadriceps Muscle Tear (Post-surgery),"Pain relievers: Acetaminophen, Hydrocodone, Oxycodone, Fentanyl, Ibuprofen",To manage pain after surgery.
+Quadriceps Muscle Tear (Muscle Spasm Relief),"Cyclobenzaprine (Flexeril), Methocarbamol (Robaxin), Baclofen",To alleviate muscle spasms after surgery.
+Quadriceps Muscle Tear (Inflammation),"Prednisone, Dexamethasone, Ibuprofen, Naproxen (Aleve)",To reduce inflammation after surgery.
+Hamstring Muscle Tear (Pre-surgery),"Pain relievers: Ibuprofen, Acetaminophen, Morphine, Fentanyl",To manage pain before surgery.
+Hamstring Muscle Tear (Post-surgery),"Pain relievers: Acetaminophen, Hydrocodone, Oxycodone, Fentanyl, Ibuprofen",To manage pain after surgery.
+Hamstring Muscle Tear (Muscle Spasm Relief),"Cyclobenzaprine (Flexeril), Methocarbamol (Robaxin), Baclofen",To alleviate muscle spasms after surgery.
+Hamstring Muscle Tear (Inflammation),"Prednisone, Dexamethasone, Ibuprofen, Naproxen (Aleve)",To reduce inflammation after surgery.
+Calf Muscle Tear (Gastrocnemius) (Pre-surgery),"Pain relievers: Ibuprofen, Acetaminophen, Morphine, Fentanyl",To manage pain before surgery.
+Calf Muscle Tear (Gastrocnemius) (Post-surgery),"Pain relievers: Acetaminophen, Hydrocodone, Oxycodone, Fentanyl, Ibuprofen",To manage pain after surgery.
+Calf Muscle Tear (Gastrocnemius) (Muscle Spasm Relief),"Cyclobenzaprine (Flexeril), Methocarbamol (Robaxin), Baclofen",To alleviate muscle spasms after surgery.
+Calf Muscle Tear (Gastrocnemius) (Inflammation),"Prednisone, Dexamethasone, Ibuprofen, Naproxen (Aleve)",To reduce inflammation after surgery.
+Deltoid Muscle Tear (Pre-surgery),"Pain relievers: Ibuprofen, Acetaminophen, Morphine, Fentanyl",To manage pain before surgery.
+Deltoid Muscle Tear (Post-surgery),"Pain relievers: Acetaminophen, Hydrocodone, Oxycodone, Fentanyl, Ibuprofen",To manage pain after surgery.
+Deltoid Muscle Tear (Muscle Spasm Relief),"Cyclobenzaprine (Flexeril), Methocarbamol (Robaxin), Baclofen",To alleviate muscle spasms after surgery.
+Deltoid Muscle Tear (Inflammation),"Prednisone, Dexamethasone, Ibuprofen, Naproxen (Aleve)",To reduce inflammation after surgery.
+Pectoral Muscle Tear (Chest) (Pre-surgery),"Pain relievers: Ibuprofen, Acetaminophen, Morphine, Fentanyl",To manage pain before surgery.
+Pectoral Muscle Tear (Chest) (Post-surgery),"Pain relievers: Acetaminophen, Hydrocodone, Oxycodone, Fentanyl, Ibuprofen",To manage pain after surgery.
+Pectoral Muscle Tear (Chest) (Muscle Spasm Relief),"Cyclobenzaprine (Flexeril), Methocarbamol (Robaxin), Baclofen",To relieve muscle spasms after surgery.
+Pectoral Muscle Tear (Chest) (Inflammation),"Prednisone, Dexamethasone, Ibuprofen, Naproxen (Aleve)",To reduce inflammation around the chest muscles.
+Trapezius Muscle Tear (Pre-surgery),"Pain relievers: Ibuprofen, Acetaminophen, Morphine, Fentanyl",To manage pain before surgery.
+Trapezius Muscle Tear (Post-surgery),"Pain relievers: Acetaminophen, Hydrocodone, Oxycodone, Fentanyl, Ibuprofen",To manage pain after surgery.
+Trapezius Muscle Tear (Muscle Spasm Relief),"Cyclobenzaprine (Flexeril), Methocarbamol (Robaxin), Baclofen",To alleviate muscle spasms after surgery.
+Trapezius Muscle Tear (Inflammation),"Prednisone, Dexamethasone, Ibuprofen, Naproxen (Aleve)",To reduce inflammation in the trapezius muscle.
+Posterior Cruciate Ligament (PCL) Tear,"Ibuprofen, Acetaminophen, Morphine, Fentanyl, Cyclobenzaprine (Flexeril), Baclofen, Methocarbamol, Prednisone, Dexamethasone","Pain management, muscle relaxation, inflammation reduction."
+Medial Collateral Ligament (MCL) Tear,"Ibuprofen, Acetaminophen, Morphine, Fentanyl, Cyclobenzaprine (Flexeril), Baclofen, Methocarbamol, Prednisone, Dexamethasone","Pain management, muscle relaxation, inflammation reduction."
+Lateral Collateral Ligament (LCL) Tear,"Ibuprofen, Acetaminophen, Morphine, Fentanyl, Cyclobenzaprine (Flexeril), Baclofen, Methocarbamol, Prednisone, Dexamethasone","Pain management, muscle relaxation, inflammation reduction."
+Rotator Cuff Ligament Tear,"Ibuprofen, Acetaminophen, Morphine, Fentanyl, Cyclobenzaprine (Flexeril), Baclofen, Methocarbamol, Prednisone, Dexamethasone","Pain management, muscle relaxation, inflammation reduction."
+Ulnar Collateral Ligament (UCL) Tear,"Ibuprofen, Acetaminophen, Morphine, Fentanyl, Cyclobenzaprine (Flexeril), Baclofen, Methocarbamol, Prednisone, Dexamethasone","Pain management, muscle relaxation, inflammation reduction."
+Ankle Ligament Tear (Sprain),"Ibuprofen, Acetaminophen, Morphine, Fentanyl, Cyclobenzaprine (Flexeril), Baclofen, Methocarbamol, Prednisone, Dexamethasone","Pain management, muscle relaxation, inflammation reduction."
+Anterior Cruciate Ligament (ACL) Tear (Pre-surgery),"Ibuprofen, Acetaminophen, Morphine, Fentanyl, Cyclobenzaprine (Flexeril), Baclofen, Methocarbamol, Prednisone, Dexamethasone","Pain management, muscle relaxation, inflammation reduction."
+Anterior Cruciate Ligament (ACL) Tear (Post-surgery),"Acetaminophen, Hydrocodone, Oxycodone, Fentanyl, Ibuprofen, Cyclobenzaprine (Flexeril), Baclofen, Methocarbamol, Prednisone, Dexamethasone","Pain management, muscle relaxation, inflammation reduction."
+Posterior Cruciate Ligament (PCL) Tear (Pre-surgery),"Ibuprofen, Acetaminophen, Morphine, Fentanyl, Cyclobenzaprine (Flexeril), Baclofen, Methocarbamol, Prednisone, Dexamethasone","Pain management, muscle relaxation, inflammation reduction."
+Posterior Cruciate Ligament (PCL) Tear (Post-surgery),"Acetaminophen, Hydrocodone, Oxycodone, Fentanyl, Ibuprofen, Cyclobenzaprine (Flexeril), Baclofen, Methocarbamol, Prednisone, Dexamethasone","Pain management, muscle relaxation, inflammation reduction."
+Medial Collateral Ligament (MCL) Tear (Pre-surgery),"Ibuprofen, Acetaminophen, Morphine, Fentanyl, Cyclobenzaprine (Flexeril), Baclofen, Methocarbamol, Prednisone, Dexamethasone","Pain management, muscle relaxation, inflammation reduction."
+Medial Collateral Ligament (MCL) Tear (Post-surgery),"Acetaminophen, Hydrocodone, Oxycodone, Fentanyl, Ibuprofen, Cyclobenzaprine (Flexeril), Baclofen, Methocarbamol, Prednisone, Dexamethasone","Pain management, muscle relaxation, inflammation reduction."
+Lateral Collateral Ligament (LCL) Tear (Pre-surgery),"Ibuprofen, Acetaminophen, Morphine, Fentanyl, Cyclobenzaprine (Flexeril), Baclofen, Methocarbamol, Prednisone, Dexamethasone","Pain management, muscle relaxation, inflammation reduction."
+Lateral Collateral Ligament (LCL) Tear (Post-surgery),"Acetaminophen, Hydrocodone, Oxycodone, Fentanyl, Ibuprofen, Cyclobenzaprine (Flexeril), Baclofen, Methocarbamol, Prednisone, Dexamethasone","Pain management, muscle relaxation, inflammation reduction."
+Rotator Cuff Ligament Tear (Pre-surgery),"Ibuprofen, Acetaminophen, Morphine, Fentanyl, Cyclobenzaprine (Flexeril), Baclofen, Methocarbamol, Prednisone, Dexamethasone","Pain management, muscle relaxation, inflammation reduction."
+Rotator Cuff Ligament Tear (Post-surgery),"Acetaminophen, Hydrocodone, Oxycodone, Fentanyl, Ibuprofen, Cyclobenzaprine (Flexeril), Baclofen, Methocarbamol, Prednisone, Dexamethasone","Pain management, muscle relaxation, inflammation reduction."
+Ulnar Collateral Ligament (UCL) Tear (Pre-surgery),"Ibuprofen, Acetaminophen, Morphine, Fentanyl, Cyclobenzaprine (Flexeril), Baclofen, Methocarbamol, Prednisone, Dexamethasone","Pain management, muscle relaxation, inflammation reduction."
+Ulnar Collateral Ligament (UCL) Tear (Post-surgery),"Acetaminophen, Hydrocodone, Oxycodone, Fentanyl, Ibuprofen, Cyclobenzaprine (Flexeril), Baclofen, Methocarbamol, Prednisone, Dexamethasone","Pain management, muscle relaxation, inflammation reduction."
+Ankle Ligament Tear (Sprain) (Pre-surgery),"Ibuprofen, Acetaminophen, Morphine, Fentanyl, Cyclobenzaprine (Flexeril), Baclofen, Methocarbamol, Prednisone, Dexamethasone","Pain management, muscle relaxation, inflammation reduction."
+Ankle Ligament Tear (Sprain) (Post-surgery),"Acetaminophen, Hydrocodone, Oxycodone, Fentanyl, Ibuprofen, Cyclobenzaprine (Flexeril), Baclofen, Methocarbamol, Prednisone, Dexamethasone","Pain management, muscle relaxation, inflammation reduction."
+Lateral Malleolus Fracture,"Ibuprofen, Acetaminophen, Morphine, Fentanyl, Cyclobenzaprine (Flexeril), Baclofen, Methocarbamol, Prednisone, Dexamethasone","Pain management, muscle relaxation, inflammation reduction."
+Medial Malleolus Fracture,"Ibuprofen, Acetaminophen, Morphine, Fentanyl, Cyclobenzaprine (Flexeril), Baclofen, Methocarbamol, Prednisone, Dexamethasone","Pain management, muscle relaxation, inflammation reduction."
+Bimalleolar Fracture,"Ibuprofen, Acetaminophen, Morphine, Fentanyl, Cyclobenzaprine (Flexeril), Baclofen, Methocarbamol, Prednisone, Dexamethasone","Pain management, muscle relaxation, inflammation reduction."
+Trimalleolar Fracture,"Ibuprofen, Acetaminophen, Morphine, Fentanyl, Cyclobenzaprine (Flexeril), Baclofen, Methocarbamol, Prednisone, Dexamethasone","Pain management, muscle relaxation, inflammation reduction."
+Lateral Malleolus Fracture (Pre-surgery),"Ibuprofen, Acetaminophen, Morphine, Fentanyl, Cyclobenzaprine (Flexeril), Baclofen, Methocarbamol, Prednisone, Dexamethasone","Pain management, muscle relaxation, inflammation reduction."
+Lateral Malleolus Fracture (Post-surgery),"Acetaminophen, Hydrocodone, Oxycodone, Fentanyl, Ibuprofen, Cyclobenzaprine (Flexeril), Baclofen, Methocarbamol, Prednisone, Dexamethasone","Pain management, muscle relaxation, inflammation reduction."
+Medial Malleolus Fracture (Pre-surgery),"Ibuprofen, Acetaminophen, Morphine, Fentanyl, Cyclobenzaprine (Flexeril), Baclofen, Methocarbamol, Prednisone, Dexamethasone","Pain management, muscle relaxation, inflammation reduction."
+Medial Malleolus Fracture (Post-surgery),"Acetaminophen, Hydrocodone, Oxycodone, Fentanyl, Ibuprofen, Cyclobenzaprine (Flexeril), Baclofen, Methocarbamol, Prednisone, Dexamethasone","Pain management, muscle relaxation, inflammation reduction."
+Bimalleolar Fracture (Pre-surgery),"Ibuprofen, Acetaminophen, Morphine, Fentanyl, Cyclobenzaprine (Flexeril), Baclofen, Methocarbamol, Prednisone, Dexamethasone","Pain management, muscle relaxation, inflammation reduction."
+Bimalleolar Fracture (Post-surgery),"Acetaminophen, Hydrocodone, Oxycodone, Fentanyl, Ibuprofen, Cyclobenzaprine (Flexeril), Baclofen, Methocarbamol, Prednisone, Dexamethasone","Pain management, muscle relaxation, inflammation reduction."
+Trimalleolar Fracture (Pre-surgery),"Ibuprofen, Acetaminophen, Morphine, Fentanyl, Cyclobenzaprine (Flexeril), Baclofen, Methocarbamol, Prednisone, Dexamethasone","Pain management, muscle relaxation, inflammation reduction."
+Trimalleolar Fracture (Post-surgery),"Acetaminophen, Hydrocodone, Oxycodone, Fentanyl, Ibuprofen, Cyclobenzaprine (Flexeril), Baclofen, Methocarbamol, Prednisone, Dexamethasone","Pain management, muscle relaxation, inflammation reduction"
+Cervical Vertebrae Fracture (Neck Fracture),"Ibuprofen, Acetaminophen, Morphine, Fentanyl, Cyclobenzaprine (Flexeril), Baclofen, Methocarbamol, Prednisone, Dexamethasone","Pain management, muscle relaxation, inflammation reduction."
+Odontoid Fracture (C2 Fracture),"Ibuprofen, Acetaminophen, Morphine, Fentanyl, Cyclobenzaprine (Flexeril), Baclofen, Methocarbamol, Prednisone, Dexamethasone","Pain management, muscle relaxation, inflammation reduction."
+Hangman's Fracture (C2),"Ibuprofen, Acetaminophen, Morphine, Fentanyl, Cyclobenzaprine (Flexeril), Baclofen, Methocarbamol, Prednisone, Dexamethasone","Pain management, muscle relaxation, inflammation reduction."
+Compression Fracture (Cervical Spine),"Ibuprofen, Acetaminophen, Morphine, Fentanyl, Cyclobenzaprine (Flexeril), Baclofen, Methocarbamol, Prednisone, Dexamethasone","Pain management, muscle relaxation, inflammation reduction."
+Fracture of the Atlas (C1 Fracture),"Ibuprofen, Acetaminophen, Morphine, Fentanyl, Cyclobenzaprine (Flexeril), Baclofen, Methocarbamol, Prednisone, Dexamethasone","Pain management, muscle relaxation, inflammation reduction."
+Flexion-Distraction Fracture,"Ibuprofen, Acetaminophen, Morphine, Fentanyl, Cyclobenzaprine (Flexeril), Baclofen, Methocarbamol, Prednisone, Dexamethasone","Pain management, muscle relaxation, inflammation reduction."
+Cervical Vertebrae Fracture (Pre-surgery),"Ibuprofen, Acetaminophen, Morphine, Fentanyl, Cyclobenzaprine (Flexeril), Baclofen, Methocarbamol, Prednisone, Dexamethasone","Pain management, muscle relaxation, inflammation reduction."
+Cervical Vertebrae Fracture (Post-surgery),"Acetaminophen, Hydrocodone, Oxycodone, Fentanyl, Ibuprofen, Cyclobenzaprine (Flexeril), Baclofen, Methocarbamol, Prednisone, Dexamethasone","Pain management, muscle relaxation, inflammation reduction."
+Odontoid Fracture (C2 Fracture) (Pre-surgery),"Ibuprofen, Acetaminophen, Morphine, Fentanyl, Cyclobenzaprine (Flexeril), Baclofen, Methocarbamol, Prednisone, Dexamethasone","Pain management, muscle relaxation, inflammation reduction."
+Odontoid Fracture (C2 Fracture) (Post-surgery),"Acetaminophen, Hydrocodone, Oxycodone, Fentanyl, Ibuprofen, Cyclobenzaprine (Flexeril), Baclofen, Methocarbamol, Prednisone, Dexamethasone","Pain management, muscle relaxation, inflammation reduction."
+Hangman's Fracture (C2) (Pre-surgery),"Ibuprofen, Acetaminophen, Morphine, Fentanyl, Cyclobenzaprine (Flexeril), Baclofen, Methocarbamol, Prednisone, Dexamethasone","Pain management, muscle relaxation, inflammation reduction."
+Hangman's Fracture (C2) (Post-surgery),"Acetaminophen, Hydrocodone, Oxycodone, Fentanyl, Ibuprofen, Cyclobenzaprine (Flexeril), Baclofen, Methocarbamol, Prednisone, Dexamethasone","Pain management, muscle relaxation, inflammation reduction."
+Compression Fracture (Cervical Spine) (Pre-surgery),"Ibuprofen, Acetaminophen, Morphine, Fentanyl, Cyclobenzaprine (Flexeril), Baclofen, Methocarbamol, Prednisone, Dexamethasone","Pain management, muscle relaxation, inflammation reduction."
+Compression Fracture (Cervical Spine) (Post-surgery),"Acetaminophen, Hydrocodone, Oxycodone, Fentanyl, Ibuprofen, Cyclobenzaprine (Flexeril), Baclofen, Methocarbamol, Prednisone, Dexamethasone","Pain management, muscle relaxation, inflammation reduction."
+Fracture of the Atlas (C1 Fracture) (Pre-surgery),"Ibuprofen, Acetaminophen, Morphine, Fentanyl, Cyclobenzaprine (Flexeril), Baclofen, Methocarbamol, Prednisone, Dexamethasone","Pain management, muscle relaxation, inflammation reduction."
+Fracture of the Atlas (C1 Fracture) (Post-surgery),"Acetaminophen, Hydrocodone, Oxycodone, Fentanyl, Ibuprofen, Cyclobenzaprine (Flexeril), Baclofen, Methocarbamol, Prednisone, Dexamethasone","Pain management, muscle relaxation, inflammation reduction."
+Flexion-Distraction Fracture (Pre-surgery),"Ibuprofen, Acetaminophen, Morphine, Fentanyl, Cyclobenzaprine (Flexeril), Baclofen, Methocarbamol, Prednisone, Dexamethasone","Pain management, muscle relaxation, inflammation reduction."
+Flexion-Distraction Fracture (Post-surgery),"Acetaminophen, Hydrocodone, Oxycodone, Fentanyl, Ibuprofen, Cyclobenzaprine (Flexeril), Baclofen, Methocarbamol, Prednisone, Dexamethasone","Pain management, muscle relaxation, inflammation reduction."
+Distal Radius Fracture,"Ibuprofen, Acetaminophen, Morphine, Fentanyl, Cyclobenzaprine (Flexeril), Baclofen, Methocarbamol, Prednisone, Dexamethasone","Pain management, muscle relaxation, inflammation reduction."
+Scaphoid Fracture,"Ibuprofen, Acetaminophen, Morphine, Fentanyl, Cyclobenzaprine (Flexeril), Baclofen, Methocarbamol, Prednisone, Dexamethasone","Pain management, muscle relaxation, inflammation reduction."
+Colles Fracture,"Ibuprofen, Acetaminophen, Morphine, Fentanyl, Cyclobenzaprine (Flexeril), Baclofen, Methocarbamol, Prednisone, Dexamethasone","Pain management, muscle relaxation, inflammation reduction."
+Smith Fracture,"Ibuprofen, Acetaminophen, Morphine, Fentanyl, Cyclobenzaprine (Flexeril), Baclofen, Methocarbamol, Prednisone, Dexamethasone","Pain management, muscle relaxation, inflammation reduction."
+Barton Fracture,"Ibuprofen, Acetaminophen, Morphine, Fentanyl, Cyclobenzaprine (Flexeril), Baclofen, Methocarbamol, Prednisone, Dexamethasone","Pain management, muscle relaxation, inflammation reduction."
+Chauffeur Fracture,"Ibuprofen, Acetaminophen, Morphine, Fentanyl, Cyclobenzaprine (Flexeril), Baclofen, Methocarbamol, Prednisone, Dexamethasone","Pain management, muscle relaxation, inflammation reduction."
+Distal Radius Fracture (Pre-surgery),"Ibuprofen, Acetaminophen, Morphine, Fentanyl, Cyclobenzaprine (Flexeril), Baclofen, Methocarbamol, Prednisone, Dexamethasone","Pain management, muscle relaxation, inflammation reduction."
+Distal Radius Fracture (Post-surgery),"Acetaminophen, Hydrocodone, Oxycodone, Fentanyl, Ibuprofen, Cyclobenzaprine (Flexeril), Baclofen, Methocarbamol, Prednisone, Dexamethasone","Pain management, muscle relaxation, inflammation reduction."
+Scaphoid Fracture (Pre-surgery),"Ibuprofen, Acetaminophen, Morphine, Fentanyl, Cyclobenzaprine (Flexeril), Baclofen, Methocarbamol, Prednisone, Dexamethasone","Pain management, muscle relaxation, inflammation reduction."
+Scaphoid Fracture (Post-surgery),"Acetaminophen, Hydrocodone, Oxycodone, Fentanyl, Ibuprofen, Cyclobenzaprine (Flexeril), Baclofen, Methocarbamol, Prednisone, Dexamethasone","Pain management, muscle relaxation, inflammation reduction."
+Colles Fracture (Pre-surgery),"Ibuprofen, Acetaminophen, Morphine, Fentanyl, Cyclobenzaprine (Flexeril), Baclofen, Methocarbamol, Prednisone, Dexamethasone","Pain management, muscle relaxation, inflammation reduction."
+Colles Fracture (Post-surgery),"Acetaminophen, Hydrocodone, Oxycodone, Fentanyl, Ibuprofen, Cyclobenzaprine (Flexeril), Baclofen, Methocarbamol, Prednisone, Dexamethasone","Pain management, muscle relaxation, inflammation reduction."
+Smith Fracture (Pre-surgery),"Ibuprofen, Acetaminophen, Morphine, Fentanyl, Cyclobenzaprine (Flexeril), Baclofen, Methocarbamol, Prednisone, Dexamethasone","Pain management, muscle relaxation, inflammation reduction."
+Smith Fracture (Post-surgery),"Acetaminophen, Hydrocodone, Oxycodone, Fentanyl, Ibuprofen, Cyclobenzaprine (Flexeril), Baclofen, Methocarbamol, Prednisone, Dexamethasone","Pain management, muscle relaxation, inflammation reduction."
+Barton Fracture (Pre-surgery),"Ibuprofen, Acetaminophen, Morphine, Fentanyl, Cyclobenzaprine (Flexeril), Baclofen, Methocarbamol, Prednisone, Dexamethasone","Pain management, muscle relaxation, inflammation reduction."
+Barton Fracture (Post-surgery),"Acetaminophen, Hydrocodone, Oxycodone, Fentanyl, Ibuprofen, Cyclobenzaprine (Flexeril), Baclofen, Methocarbamol, Prednisone, Dexamethasone","Pain management, muscle relaxation, inflammation reduction."
+Chauffeur Fracture (Pre-surgery),"Ibuprofen, Acetaminophen, Morphine, Fentanyl, Cyclobenzaprine (Flexeril), Baclofen, Methocarbamol, Prednisone, Dexamethasone","Pain management, muscle relaxation, inflammation reduction."
+Chauffeur Fracture (Post-surgery),"Acetaminophen, Hydrocodone, Oxycodone, Fentanyl, Ibuprofen, Cyclobenzaprine (Flexeril), Baclofen, Methocarbamol, Prednisone, Dexamethasone","Pain management, muscle relaxation, inflammation reduction."
+Patellar Fracture,"Ibuprofen, Acetaminophen, Morphine, Fentanyl, Cyclobenzaprine (Flexeril), Baclofen, Methocarbamol, Prednisone, Dexamethasone","Pain management, muscle relaxation, inflammation reduction."
+Femoral Condyle Fracture,"Ibuprofen, Acetaminophen, Morphine, Fentanyl, Cyclobenzaprine (Flexeril), Baclofen, Methocarbamol, Prednisone, Dexamethasone","Pain management, muscle relaxation, inflammation reduction."
+Tibial Plateau Fracture,"Ibuprofen, Acetaminophen, Morphine, Fentanyl, Cyclobenzaprine (Flexeril), Baclofen, Methocarbamol, Prednisone, Dexamethasone","Pain management, muscle relaxation, inflammation reduction."
+Bilateral Fracture of the Knee,"Ibuprofen, Acetaminophen, Morphine, Fentanyl, Cyclobenzaprine (Flexeril), Baclofen, Methocarbamol, Prednisone, Dexamethasone","Pain management, muscle relaxation, inflammation reduction."
+Displaced Fracture of the Patella,"Ibuprofen, Acetaminophen, Morphine, Fentanyl, Cyclobenzaprine (Flexeril), Baclofen, Methocarbamol, Prednisone, Dexamethasone","Pain management, muscle relaxation, inflammation reduction."
+Comminuted Fracture of the Patella,"Ibuprofen, Acetaminophen, Morphine, Fentanyl, Cyclobenzaprine (Flexeril), Baclofen, Methocarbamol, Prednisone, Dexamethasone","Pain management, muscle relaxation, inflammation reduction."
+Tibial Shaft Fracture (Knee Area),"Ibuprofen, Acetaminophen, Morphine, Fentanyl, Cyclobenzaprine (Flexeril), Baclofen, Methocarbamol, Prednisone, Dexamethasone","Pain management, muscle relaxation, inflammation reduction."
+Patellar Fracture (Pre-surgery),"Ibuprofen, Acetaminophen, Morphine, Fentanyl, Cyclobenzaprine (Flexeril), Baclofen, Methocarbamol, Prednisone, Dexamethasone","Pain management, muscle relaxation, inflammation reduction."
+Patellar Fracture (Post-surgery),"Acetaminophen, Hydrocodone, Oxycodone, Fentanyl, Ibuprofen, Cyclobenzaprine (Flexeril), Baclofen, Methocarbamol, Prednisone, Dexamethasone","Pain management, muscle relaxation, inflammation reduction."
+Femoral Condyle Fracture (Pre-surgery),"Ibuprofen, Acetaminophen, Morphine, Fentanyl, Cyclobenzaprine (Flexeril), Baclofen, Methocarbamol, Prednisone, Dexamethasone","Pain management, muscle relaxation, inflammation reduction."
+Femoral Condyle Fracture (Post-surgery),"Acetaminophen, Hydrocodone, Oxycodone, Fentanyl, Ibuprofen, Cyclobenzaprine (Flexeril), Baclofen, Methocarbamol, Prednisone, Dexamethasone","Pain management, muscle relaxation, inflammation reduction."
+Tibial Plateau Fracture (Pre-surgery),"Ibuprofen, Acetaminophen, Morphine, Fentanyl, Cyclobenzaprine (Flexeril), Baclofen, Methocarbamol, Prednisone, Dexamethasone","Pain management, muscle relaxation, inflammation reduction."
+Tibial Plateau Fracture (Post-surgery),"Acetaminophen, Hydrocodone, Oxycodone, Fentanyl, Ibuprofen, Cyclobenzaprine (Flexeril), Baclofen, Methocarbamol, Prednisone, Dexamethasone","Pain management, muscle relaxation, inflammation reduction."
+Bilateral Fracture of the Knee (Pre-surgery),"Ibuprofen, Acetaminophen, Morphine, Fentanyl, Cyclobenzaprine (Flexeril), Baclofen, Methocarbamol, Prednisone, Dexamethasone","Pain management, muscle relaxation, inflammation reduction."
+Bilateral Fracture of the Knee (Post-surgery),"Acetaminophen, Hydrocodone, Oxycodone, Fentanyl, Ibuprofen, Cyclobenzaprine (Flexeril), Baclofen, Methocarbamol, Prednisone, Dexamethasone","Pain management, muscle relaxation, inflammation reduction."
+Displaced Fracture of the Patella (Pre-surgery),"Ibuprofen, Acetaminophen, Morphine, Fentanyl, Cyclobenzaprine (Flexeril), Baclofen, Methocarbamol, Prednisone, Dexamethasone","Pain management, muscle relaxation, inflammation reduction."
+Displaced Fracture of the Patella (Post-surgery),"Acetaminophen, Hydrocodone, Oxycodone, Fentanyl, Ibuprofen, Cyclobenzaprine (Flexeril), Baclofen, Methocarbamol, Prednisone, Dexamethasone","Pain management, muscle relaxation, inflammation reduction."
+Comminuted Fracture of the Patella (Pre-surgery),"Ibuprofen, Acetaminophen, Morphine, Fentanyl, Cyclobenzaprine (Flexeril), Baclofen, Methocarbamol, Prednisone, Dexamethasone","Pain management, muscle relaxation, inflammation reduction."
+Comminuted Fracture of the Patella (Post-surgery),"Acetaminophen, Hydrocodone, Oxycodone, Fentanyl, Ibuprofen, Cyclobenzaprine (Flexeril), Baclofen, Methocarbamol, Prednisone, Dexamethasone","Pain management, muscle relaxation, inflammation reduction."
+Tibial Shaft Fracture (Knee Area) (Pre-surgery),"Ibuprofen, Acetaminophen, Morphine, Fentanyl, Cyclobenzaprine (Flexeril), Baclofen, Methocarbamol, Prednisone, Dexamethasone","Pain management, muscle relaxation, inflammation reduction."
+Tibial Shaft Fracture (Knee Area) (Post-surgery),"Acetaminophen, Hydrocodone, Oxycodone, Fentanyl, Ibuprofen, Cyclobenzaprine (Flexeril), Baclofen, Methocarbamol, Prednisone, Dexamethasone","Pain management, muscle relaxation, inflammation reduction."
+Simple Nasal Fracture,"Ibuprofen, Acetaminophen, Morphine, Fentanyl, Cyclobenzaprine (Flexeril), Baclofen, Methocarbamol, Prednisone, Dexamethasone","Pain management, muscle relaxation, inflammation reduction."
+Complex Nasal Fracture,"Ibuprofen, Acetaminophen, Morphine, Fentanyl, Cyclobenzaprine (Flexeril), Baclofen, Methocarbamol, Prednisone, Dexamethasone","Pain management, muscle relaxation, inflammation reduction."
+Nasal Bone Fracture,"Ibuprofen, Acetaminophen, Morphine, Fentanyl, Cyclobenzaprine (Flexeril), Baclofen, Methocarbamol, Prednisone, Dexamethasone","Pain management, muscle relaxation, inflammation reduction."
+Septal Fracture,"Ibuprofen, Acetaminophen, Morphine, Fentanyl, Cyclobenzaprine (Flexeril), Baclofen, Methocarbamol, Prednisone, Dexamethasone","Pain management, muscle relaxation, inflammation reduction."
+Comminuted Nasal Fracture,"Ibuprofen, Acetaminophen, Morphine, Fentanyl, Cyclobenzaprine (Flexeril), Baclofen, Methocarbamol, Prednisone, Dexamethasone","Pain management, muscle relaxation, inflammation reduction."
+Displaced Nasal Fracture,"Ibuprofen, Acetaminophen, Morphine, Fentanyl, Cyclobenzaprine (Flexeril), Baclofen, Methocarbamol, Prednisone, Dexamethasone","Pain management, muscle relaxation, inflammation reduction."
+Simple Nasal Fracture (Pre-surgery),"Ibuprofen, Acetaminophen, Morphine, Fentanyl, Cyclobenzaprine (Flexeril), Baclofen, Methocarbamol, Prednisone, Dexamethasone","Pain management, muscle relaxation, inflammation reduction."
+Simple Nasal Fracture (Post-surgery),"Acetaminophen, Hydrocodone, Oxycodone, Fentanyl, Ibuprofen, Cyclobenzaprine (Flexeril), Baclofen, Methocarbamol, Prednisone, Dexamethasone","Pain management, muscle relaxation, inflammation reduction."
+Complex Nasal Fracture (Pre-surgery),"Ibuprofen, Acetaminophen, Morphine, Fentanyl, Cyclobenzaprine (Flexeril), Baclofen, Methocarbamol, Prednisone, Dexamethasone","Pain management, muscle relaxation, inflammation reduction."
+Complex Nasal Fracture (Post-surgery),"Acetaminophen, Hydrocodone, Oxycodone, Fentanyl, Ibuprofen, Cyclobenzaprine (Flexeril), Baclofen, Methocarbamol, Prednisone, Dexamethasone","Pain management, muscle relaxation, inflammation reduction."
+Nasal Bone Fracture (Pre-surgery),"Ibuprofen, Acetaminophen, Morphine, Fentanyl, Cyclobenzaprine (Flexeril), Baclofen, Methocarbamol, Prednisone, Dexamethasone","Pain management, muscle relaxation, inflammation reduction."
+Nasal Bone Fracture (Post-surgery),"Acetaminophen, Hydrocodone, Oxycodone, Fentanyl, Ibuprofen, Cyclobenzaprine (Flexeril), Baclofen, Methocarbamol, Prednisone, Dexamethasone","Pain management, muscle relaxation, inflammation reduction."
+Septal Fracture (Pre-surgery),"Ibuprofen, Acetaminophen, Morphine, Fentanyl, Cyclobenzaprine (Flexeril), Baclofen, Methocarbamol, Prednisone, Dexamethasone","Pain management, muscle relaxation, inflammation reduction."
+Septal Fracture (Post-surgery),"Acetaminophen, Hydrocodone, Oxycodone, Fentanyl, Ibuprofen, Cyclobenzaprine (Flexeril), Baclofen, Methocarbamol, Prednisone, Dexamethasone","Pain management, muscle relaxation, inflammation reduction."
+Comminuted Nasal Fracture (Pre-surgery),"Ibuprofen, Acetaminophen, Morphine, Fentanyl, Cyclobenzaprine (Flexeril), Baclofen, Methocarbamol, Prednisone, Dexamethasone","Pain management, muscle relaxation, inflammation reduction."
+Comminuted Nasal Fracture (Post-surgery),"Acetaminophen, Hydrocodone, Oxycodone, Fentanyl, Ibuprofen, Cyclobenzaprine (Flexeril), Baclofen, Methocarbamol, Prednisone, Dexamethasone","Pain management, muscle relaxation, inflammation reduction."
+Displaced Nasal Fracture (Pre-surgery),"Ibuprofen, Acetaminophen, Morphine, Fentanyl, Cyclobenzaprine (Flexeril), Baclofen, Methocarbamol, Prednisone, Dexamethasone","Pain management, muscle relaxation, inflammation reduction."
+Displaced Nasal Fracture (Post-surgery),"Acetaminophen, Hydrocodone, Oxycodone, Fentanyl, Ibuprofen, Cyclobenzaprine (Flexeril), Baclofen, Methocarbamol, Prednisone, Dexamethasone","Pain management, muscle relaxation, inflammation reduction."
+Linear Skull Fracture,"Acetaminophen (Tylenol), Ibuprofen (Advil, Motrin), Naproxen (Aleve)","Pain relief, reduces inflammation"
+Depressed Skull Fracture,"Acetaminophen (Tylenol), Ibuprofen (Advil, Motrin), Opioids (Oxycodone, Hydrocodone)","Pain relief, severe pain management"
+Comminuted Skull Fracture,"Acetaminophen (Tylenol), Ibuprofen (Advil, Motrin), Opioids (Morphine, Oxycodone)","Pain relief, severe pain management"
+Basilar Skull Fracture,"Amoxicillin, Cephalexin, Ciprofloxacin, Ondansetron (Zofran)","Prevents infection, reduces nausea, prevents complications"
+Headaches from Fracture,"Acetaminophen (Tylenol), Ibuprofen (Advil, Motrin)","Pain relief, reduces headache symptoms"
+Risk of Infection (open fractures),"Amoxicillin, Cephalexin, Ciprofloxacin",Prevents or treats infection
+Nausea or Vomiting,"Ondansetron (Zofran), Metoclopramide (Reglan)",Reduces nausea and vomiting
+Preoperative & Postoperative: Pain Relief,"Acetaminophen (Tylenol), Ibuprofen (Advil, Motrin), Opioids (Morphine, Oxycodone)","Pain relief, reducing inflammation, and severe pain management"
+Preoperative & Postoperative: Infection Prevention,"Amoxicillin, Cephalexin, Ciprofloxacin","Prevents infection, especially in open fractures or after surgery"
+Preoperative & Postoperative: Antibiotics (Prophylactic),"Cefazolin, Vancomycin","Prevents infections, particularly in surgeries"
+Preoperative & Postoperative: Nausea and Vomiting,"Ondansetron (Zofran), Metoclopramide (Reglan)",Reduces nausea and vomiting during and after surgery
+Preoperative & Postoperative: Headaches,"Acetaminophen (Tylenol), Ibuprofen (Advil, Motrin)",Pain relief for headaches related to the fracture or surgery
+Postoperative: Anti-seizure (if necessary),"Phenytoin, Levetiracetam",Prevents seizures following brain trauma or surgery
+Multiple Sclerosis (MS),"Interferon beta (Avonex, Rebif), Glatiramer acetate (Copaxone), Fingolimod (Gilenya)","Reduces inflammation, prevents relapses, immune modulation"
+Parkinson's Disease,"Levodopa (Sinemet), Dopamine agonists (Pramipexole, Ropinirole), MAO-B inhibitors (Rasagiline)","Increases dopamine levels, improves motor control"
+Alzheimer's Disease,"Donepezil (Aricept), Memantine (Namenda), Rivastigmine (Exelon)","Improves memory, cognitive function, and slows disease progression"
+Stroke,"Tissue Plasminogen Activator (tPA), Aspirin, Anticoagulants (Warfarin, Dabigatran)","Dissolves clots, reduces blood clotting, prevents further strokes"
+Amyotrophic Lateral Sclerosis (ALS),"Riluzole (Rilutek), Edaravone (Radicava)","Slows disease progression, protects motor neurons"
+Spinal Cord Injury,"Methylprednisolone (steroid), Baclofen","Reduces inflammation, manages muscle spasticity"
+Peripheral Neuropathy,"Gabapentin (Neurontin), Pregabalin (Lyrica), Duloxetine (Cymbalta)","Pain relief, reduces nerve pain, and inflammation"
+Guillain-Barré Syndrome (GBS),"Plasma exchange (plasmapheresis), Immunoglobulin therapy (IVIG)","Reduces immune system attack, speeds recovery"
+Carpal Tunnel Syndrome,"Corticosteroids (Prednisone), Nonsteroidal anti-inflammatory drugs (NSAIDs - Ibuprofen)","Reduces inflammation, pain relief"
+Trigeminal Neuralgia,"Carbamazepine (Tegretol), Gabapentin (Neurontin)",Pain relief by stabilizing nerve activity
+Migraine,"Sumatriptan (Imitrex), Beta-blockers (Propranolol), Antidepressants (Amitriptyline)","Pain relief, reduces frequency, and severity of attacks"
+Myasthenia Gravis,"Pyridostigmine (Mestinon), Immunosuppressants (Prednisone, Azathioprine)","Improves muscle strength, reduces immune response"
+Bell's Palsy,"Prednisone, Antiviral drugs (Acyclovir)","Reduces inflammation, treats viral causes"
+Preoperative & Postoperative: Multiple Sclerosis (MS),"Interferon beta (Avonex, Rebif), Glatiramer acetate (Copaxone), Fingolimod (Gilenya)","Reduces inflammation, prevents relapses, immune modulation"
+Preoperative & Postoperative: Parkinson's Disease,"Levodopa (Sinemet), Dopamine agonists (Pramipexole, Ropinirole), MAO-B inhibitors (Rasagiline)","Increases dopamine levels, improves motor control"
+Preoperative & Postoperative: Alzheimer’s Disease,"Donepezil (Aricept), Memantine (Namenda), Rivastigmine (Exelon)","Improves memory, cognitive function, and slows disease progression"
+Preoperative & Postoperative: Stroke,"Tissue Plasminogen Activator (tPA), Aspirin, Anticoagulants (Warfarin, Dabigatran)","Dissolves clots, reduces blood clotting, prevents further strokes"
+Preoperative & Postoperative: Amyotrophic Lateral Sclerosis (ALS),"Riluzole (Rilutek), Edaravone (Radicava)","Slows disease progression, protects motor neurons"
+Preoperative & Postoperative: Spinal Cord Injury,"Methylprednisolone (steroid), Baclofen","Reduces inflammation, manages muscle spasticity"
+Preoperative & Postoperative: Peripheral Neuropathy,"Gabapentin (Neurontin), Pregabalin (Lyrica), Duloxetine (Cymbalta)","Pain relief, reduces nerve pain, and inflammation"
+Preoperative & Postoperative: Guillain-Barré Syndrome (GBS),"Plasma exchange (plasmapheresis), Immunoglobulin therapy (IVIG)","Reduces immune system attack, speeds recovery"
+Preoperative & Postoperative: Carpal Tunnel Syndrome,"Corticosteroids (Prednisone), Nonsteroidal anti-inflammatory drugs (NSAIDs - Ibuprofen)","Reduces inflammation, pain relief"
+Preoperative & Postoperative: Trigeminal Neuralgia,"Carbamazepine (Tegretol), Gabapentin (Neurontin)",Pain relief by stabilizing nerve activity
+Preoperative & Postoperative: Migraine,"Sumatriptan (Imitrex), Beta-blockers (Propranolol), Antidepressants (Amitriptyline)","Pain relief, reduces frequency, and severity of attacks"
+Preoperative & Postoperative: Myasthenia Gravis,"Pyridostigmine (Mestinon), Immunosuppressants (Prednisone, Azathioprine)","Improves muscle strength, reduces immune response"
+Preoperative & Postoperative: Bell’s Palsy,"Prednisone, Antiviral drugs (Acyclovir)","Reduces inflammation, treats viral causes"
+Appendix Cancer,"Fluorouracil (5-FU), Capecitabine (Xeloda), Oxaliplatin (Eloxatin), Irinotecan (Camptosar), Bevacizumab (Avastin), Cetuximab (Erbitux), Pembrolizumab (Keytruda), Nivolumab (Opdivo)","Chemotherapy, targeted therapy, immunotherapy."
+Metastatic Appendix Cancer,"5-FU, FOLFIRI (5-FU + Leucovorin + Irinotecan), FOLFOX (5-FU + Leucovorin + Oxaliplatin), Bevacizumab (Avastin), Aflibercept (Zaltrap)",Treatment of advanced or metastatic appendix cancer.
+Surgical Preparation for Appendix Cancer,"Dexamethasone, Ondansetron (Zofran), Midazolam, Fentanyl","Anti-inflammatory, nausea prevention, anesthesia adjuncts."
+Post-Surgical Recovery for Appendix Cancer,"Acetaminophen, Ibuprofen, Oxycodone, Morphine, Enoxaparin (Lovenox)","Pain relief, anti-inflammatory, and blood clot prevention"
+Appendix Cancer (Pre-surgery),"Dexamethasone, Ondansetron (Zofran), Midazolam, Fentanyl","Anti-inflammatory, nausea prevention, anesthesia adjuncts."
+Appendix Cancer (Post-surgery),"Acetaminophen, Ibuprofen, Oxycodone, Morphine, Enoxaparin (Lovenox)","Pain relief, anti-inflammatory, and blood clot prevention."
+Appendix Cancer (General Treatment),"Fluorouracil (5-FU), Capecitabine (Xeloda), Oxaliplatin (Eloxatin), Irinotecan (Camptosar), Bevacizumab (Avastin), Cetuximab (Erbitux), Pembrolizumab (Keytruda), Nivolumab (Opdivo)","Chemotherapy, targeted therapy, immunotherapy."
+Metastatic Appendix Cancer (Pre-surgery),"Dexamethasone, Ondansetron (Zofran), Midazolam, Fentanyl","Anti-inflammatory, nausea prevention, anesthesia adjuncts."
+Metastatic Appendix Cancer (Post-surgery),"Acetaminophen, Ibuprofen, Oxycodone, Morphine, Enoxaparin (Lovenox)","Pain relief, anti-inflammatory, and blood clot prevention."
+Metastatic Appendix Cancer (Treatment),"5-FU, FOLFIRI (5-FU + Leucovorin + Irinotecan), FOLFOX (5-FU + Leucovorin + Oxaliplatin), Bevacizumab (Avastin), Aflibercept (Zaltrap)",Chemotherapy for advanced or metastatic cases.
+Brain Cancer,"Dexamethasone, Mannitol, Furosemide, Temozolomide (Temodar), Bevacizumab (Avastin), Lomustine, Carmustine, Vincristine, Cisplatin, Acetaminophen, Ibuprofen, Morphine, Oxycodone, Levetiracetam (Keppra), Phenytoin, Enoxaparin (Lovenox)","Manage brain swelling, chemotherapy, pain relief, seizure prevention, blood clot prevention."
+Glioblastoma,"Dexamethasone, Mannitol, Temozolomide (Temodar), Bevacizumab (Avastin), Lomustine, Carmustine, Acetaminophen, Levetiracetam (Keppra), Phenytoin","Reduce swelling, treat glioblastoma, pain and seizure prevention."
+Metastatic Brain Tumor,"Dexamethasone, Mannitol, Furosemide, Temozolomide (Temodar), Bevacizumab (Avastin), Lomustine, Morphine, Ibuprofen, Levetiracetam (Keppra), Enoxaparin (Lovenox)","Chemotherapy, targeted therapy, manage swelling, and post-surgical care."
+Brain Cancer (Pre-surgery),"Dexamethasone, Mannitol, Furosemide, Midazolam, Fentanyl, Ondansetron (Zofran)","Reduce swelling, manage intracranial pressure, anesthesia adjuncts, nausea prevention."
+Brain Cancer (Post-surgery),"Acetaminophen, Ibuprofen, Morphine, Oxycodone, Levetiracetam (Keppra), Phenytoin, Enoxaparin (Lovenox)","Pain relief, seizure prevention, blood clot prevention."
+Brain Cancer (General Treatment),"Temozolomide (Temodar), Bevacizumab (Avastin), Lomustine, Carmustine, Vincristine, Cisplatin",Chemotherapy and targeted therapies to treat brain tumors.
+Glioblastoma (Pre-surgery),"Dexamethasone, Mannitol, Midazolam, Fentanyl, Ondansetron (Zofran)","Reduce brain swelling, manage intracranial pressure, anesthesia adjuncts."
+Glioblastoma (Post-surgery),"Acetaminophen, Ibuprofen, Morphine, Levetiracetam (Keppra), Phenytoin","Pain relief, seizure prevention, and inflammation reduction."
+Metastatic Brain Tumor (Pre-surgery),"Dexamethasone, Mannitol, Midazolam, Fentanyl, Ondansetron (Zofran)","Manage intracranial pressure, anesthesia adjuncts, prevent nausea."
+Metastatic Brain Tumor (Post-surgery),"Acetaminophen, Ibuprofen, Morphine, Levetiracetam (Keppra), Enoxaparin (Lovenox)","Pain relief, seizure prevention, blood clot prevention."
+Basal Cell Carcinoma (Pre-surgery),"Dexamethasone, Ondansetron (Zofran), Midazolam, Fentanyl","Reduce inflammation, prevent nausea, anesthesia adjuncts."
+Basal Cell Carcinoma (Post-surgery),"Acetaminophen, Ibuprofen, Morphine, Oxycodone, Enoxaparin (Lovenox)","Pain relief, anti-inflammatory, blood clot prevention."
+Basal Cell Carcinoma (General Treatment),"Imiquimod (Aldara), Fluorouracil (5-FU), Vismodegib (Erivedge), Sonidegib (Odomzo), Interferon-alpha","Topical therapy, targeted therapy for advanced cases."
+Advanced Basal Cell Carcinoma (Pre-surgery),"Dexamethasone, Ondansetron (Zofran), Midazolam, Fentanyl","Swelling reduction, nausea prevention, anesthesia adjuncts."
+Advanced Basal Cell Carcinoma (Post-surgery),"Acetaminophen, Ibuprofen, Morphine, Enoxaparin (Lovenox)","Pain management, clot prevention."
+Superficial Basal Cell Carcinoma (General),"Imiquimod (Aldara), Fluorouracil (5-FU)",Topical treatment for localized tumors.
+Bile Duct Cancer,"Gemcitabine (Gemzar), Cisplatin, Fluorouracil (5-FU), Capecitabine (Xeloda), Oxaliplatin",Chemotherapy to slow tumor growth and control symptoms.
+Advanced Bile Duct Cancer,"Gemcitabine (Gemzar), Cisplatin, Pembrolizumab (Keytruda), Nivolumab (Opdivo), Durvalumab (Imfinzi)",Chemotherapy and immunotherapy for advanced stages.
+Unresectable Bile Duct Cancer,"Gemcitabine (Gemzar), Cisplatin, Oxaliplatin, Capecitabine (Xeloda), FOLFIRINOX (combination therapy)",Palliative chemotherapy for inoperable cases.
+Recurrent Bile Duct Cancer,"Fluorouracil (5-FU), Capecitabine (Xeloda), Oxaliplatin, Gemcitabine (Gemzar), Bevacizumab (Avastin)",Targeted therapy and chemotherapy for recurrent tumors.
+Bile Duct Cancer (Pre-surgery),"Dexamethasone, Ondansetron (Zofran), Midazolam, Fentanyl, Cefazolin","Manage inflammation, nausea, anesthesia adjuncts, and infection prevention."
+Bile Duct Cancer (Post-surgery),"Acetaminophen, Ibuprofen, Morphine, Oxycodone, Enoxaparin (Lovenox), Ceftriaxone, Levofloxacin","Pain relief, blood clot prevention, and infection management."
+Bile Duct Cancer (General Treatment),"Gemcitabine (Gemzar), Cisplatin, Fluorouracil (5-FU), Capecitabine (Xeloda), Oxaliplatin",Chemotherapy to slow tumor growth and control symptoms.
+Advanced Bile Duct Cancer (Pre-surgery),"Dexamethasone, Ondansetron (Zofran), Midazolam, Fentanyl, Cefazolin","Swelling reduction, nausea prevention, and anesthesia adjuncts."
+Advanced Bile Duct Cancer (Post-surgery),"Acetaminophen, Ibuprofen, Morphine, Enoxaparin (Lovenox), Ceftriaxone, Levofloxacin","Post-operative pain and clot prevention, infection management."
+Advanced Bile Duct Cancer (General Treatment),"Gemcitabine (Gemzar), Cisplatin, Pembrolizumab (Keytruda), Nivolumab (Opdivo), Durvalumab (Imfinzi)",Chemotherapy and immunotherapy for advanced cases.
+Bladder Cancer,"Mitomycin C, Bacillus Calmette-Guerin (BCG), Cisplatin, Gemcitabine (Gemzar), Methotrexate","Intravesical therapy, chemotherapy."
+Advanced Bladder Cancer,"Atezolizumab (Tecentriq), Durvalumab (Imfinzi), Pembrolizumab (Keytruda), Cisplatin, Gemcitabine",Immunotherapy and systemic chemotherapy.
+Non-muscle-invasive Bladder Cancer,"Bacillus Calmette-Guerin (BCG), Mitomycin C",Intravesical therapy to prevent recurrence.
+Muscle-invasive Bladder Cancer,"Cisplatin, Gemcitabine (Gemzar), Carboplatin",Systemic chemotherapy to treat invasive cancer.
+Metastatic Bladder Cancer,"Atezolizumab (Tecentriq), Pembrolizumab (Keytruda), Enfortumab Vedotin (Padcev)",Immunother
+Bladder Cancer (Pre-surgery),"Dexamethasone, Ondansetron (Zofran), Midazolam, Cefazolin","Reduce inflammation, prevent nausea, and prevent infections."
+Bladder Cancer (Post-surgery),"Acetaminophen, Ibuprofen, Morphine, Enoxaparin (Lovenox), Ceftriaxone","Pain relief, clot prevention, and infection management."
+Bladder Cancer (General Treatment),"Mitomycin C, Bacillus Calmette-Guerin (BCG), Cisplatin, Gemcitabine (Gemzar), Methotrexate","Intravesical therapy, chemotherapy."
+Advanced Bladder Cancer (Pre-surgery),"Dexamethasone, Ondansetron (Zofran), Midazolam, Cefazolin","Swelling reduction, nausea prevention, and infection prevention."
+Advanced Bladder Cancer (Post-surgery),"Acetaminophen, Ibuprofen, Morphine, Enoxaparin (Lovenox), Ceftriaxone","Pain management, clot prevention, and infection control."
+Bone Cancer,"Methotrexate, Doxorubicin, Cyclophosphamide, Ifosfamide, Cisplatin, Etoposide, Zoledronic Acid","Chemotherapy, pain management, and bone strengthening."
+Osteosarcoma (Bone Cancer),"Methotrexate, Doxorubicin, Cisplatin, Ifosfamide, Etoposide, Mifamurtide (Mepact)",Chemotherapy for treating osteosarcoma.
+Chondrosarcoma,"Doxorubicin, Ifosfamide, Cyclophosphamide, Cisplatin",Chemotherapy for chondrosarcoma (not responsive to surgery).
+Ewing’s Sarcoma,"Vincristine, Doxorubicin, Cyclophosphamide, Ifosfamide, Etoposide, Methotrexate",Chemotherapy for Ewing's Sarcoma treatment.
+Metastatic Bone Cancer,"Bisphosphonates (Zoledronic Acid), Denosumab (Xgeva), Palbociclib",For bone metastases and reducing bone pain and fractures.
+Bone Cancer (Pre-surgery),"Dexamethasone, Ondansetron (Zofran), Midazolam, Fentanyl, Cefazolin","Reduce inflammation, prevent nausea, anesthesia adjuncts, and infection prevention."
+Bone Cancer (Post-surgery),"Acetaminophen, Ibuprofen, Morphine, Oxycodone, Enoxaparin (Lovenox), Ceftriaxone, Levofloxacin","Pain relief, blood clot prevention, and infection management."
+Osteosarcoma (Pre-surgery),"Dexamethasone, Ondansetron (Zofran), Midazolam, Fentanyl, Cefazolin","Swelling reduction, nausea prevention, and anesthesia adjuncts."
+Osteosarcoma (Post-surgery),"Acetaminophen, Ibuprofen, Morphine, Oxycodone, Enoxaparin (Lovenox), Ceftriaxone, Levofloxacin","Post-operative pain control, blood clot prevention, and infection management."
+Ewing’s Sarcoma (Pre-surgery),"Dexamethasone, Ondansetron (Zofran), Midazolam, Fentanyl, Cefazolin",Reduce inflammation and prevent nausea before surgery.
+Ewing’s Sarcoma (Post-surgery),"Acetaminophen, Ibuprofen, Morphine, Oxycodone, Enoxaparin (Lovenox), Ceftriaxone","Manage pain, prevent blood clots, and treat infections."
+Chondrosarcoma (Pre-surgery),"Dexamethasone, Ondansetron (Zofran), Midazolam, Fentanyl, Cefazolin","Swelling reduction, nausea prevention, and infection prevention before surgery."
+Chondrosarcoma (Post-surgery),"Acetaminophen, Ibuprofen, Morphine, Oxycodone, Enoxaparin (Lovenox), Ceftriaxone, Levofloxacin","Pain relief, prevent blood clots, and reduce infection risk."
+Metastatic Bone Cancer (Pre-surgery),"Dexamethasone, Ondansetron (Zofran), Midazolam, Fentanyl, Cefazolin","Reduce inflammation, nausea, and infection risk."
+Metastatic Bone Cancer (Post-surgery),"Acetaminophen, Ibuprofen, Morphine, Oxycodone, Enoxaparin (Lovenox), Ceftriaxone","Pain management, blood clot prevention, and infection management."
+Brain Tumors (General Treatment),"Dexamethasone, Temozolomide (Temodar), Lomustine (CeeNU), Carmustine (BCNU), Bevacizumab (Avastin), Vincristine, Cyclophosphamide","Chemotherapy, steroids for swelling, targeted therapy, and pain management."
+Glioblastoma (GBM),"Temozolomide (Temodar), Bevacizumab (Avastin), Lomustine (CeeNU), Carmustine (BCNU)",Chemotherapy and targeted therapy for aggressive tumor treatment.
+Meningioma,"Dexamethasone, Prednisone, Hydroxyurea, Temozolomide (Temodar), Bevacizumab (Avastin)","Steroids, chemotherapy, and targeted therapy for tumor control."
+Pituitary Tumors,"Bromocriptine, Cabergoline, Temozolomide (Temodar), Octreotide, Leuprolide",Hormonal therapy and chemotherapy for pituitary tumor management.
+Medulloblastoma,"Vincristine, Cyclophosphamide, Cisplatin, Methotrexate, Temozolomide (Temodar)","Chemotherapy for pediatric brain tumors, especially medulloblastomas."
+Brain Tumors (Pre-surgery),"Dexamethasone, Ondansetron (Zofran), Midazolam, Fentanyl, Cefazolin, Mannitol","Reducing brain swelling, nausea prevention, anesthesia adjuncts, and infection prevention."
+Brain Tumors (Post-surgery),"Acetaminophen, Ibuprofen, Morphine, Oxycodone, Enoxaparin (Lovenox), Ceftriaxone, Levofloxacin","Pain relief, infection prevention, blood clot prevention."
+Glioblastoma (Pre-surgery),"Dexamethasone, Ondansetron (Zofran), Midazolam, Fentanyl, Mannitol","Swelling reduction, nausea prevention, and anesthesia adjuncts."
+Glioblastoma (Post-surgery),"Acetaminophen, Ibuprofen, Morphine, Oxycodone, Enoxaparin (Lovenox), Ceftriaxone, Levofloxacin","Post-operative pain relief, blood clot prevention, and infection management."
+Meningioma (Pre-surgery),"Dexamethasone, Ondansetron (Zofran), Midazolam, Fentanyl, Mannitol",Reduce brain swelling and control nausea pre-surgery.
+Meningioma (Post-surgery),"Acetaminophen, Ibuprofen, Morphine, Oxycodone, Enoxaparin (Lovenox), Ceftriaxone, Levofloxacin","Post-surgery pain management, infection control, and clot prevention."
+Pituitary Tumors (Pre-surgery),"Dexamethasone, Ondansetron (Zofran), Midazolam, Fentanyl, Mannitol, Cefazolin","Swelling reduction, anesthesia, and infection prevention."
+Pituitary Tumors (Post-surgery),"Acetaminophen, Ibuprofen, Morphine, Oxycodone, Enoxaparin (Lovenox), Ceftriaxone, Levofloxacin","Pain control, blood clot prevention, and infection treatment."
+Medulloblastoma (Pre-surgery),"Dexamethasone, Ondansetron (Zofran), Midazolam, Fentanyl, Cefazolin",Pre-surgery swelling reduction and nausea prevention.
+Medulloblastoma (Post-surgery),"Acetaminophen, Ibuprofen, Morphine, Oxycodone, Enoxaparin (Lovenox), Ceftriaxone, Levofloxacin",Post-operative pain management and infection control.
+Breast Cancer (General Treatment),"Tamoxifen, Letrozole (Femara), Anastrozole (Arimidex), Exemestane (Aromasin), Trastuzumab (Herceptin), Pertuzumab (Perjeta), Palbociclib, Docetaxel (Taxotere), Doxorubicin (Adriamycin)","Hormone therapy, chemotherapy, targeted therapy, and HER2 inhibitors for tumor control."
+Early-Stage Breast Cancer,"Tamoxifen, Anastrozole (Arimidex), Letrozole (Femara), Doxorubicin (Adriamycin), Cyclophosphamide, Paclitaxel (Taxol), Trastuzumab (Herceptin)","Adjuvant chemotherapy, hormone therapy, and HER2 inhibitors."
+HER2-Positive Breast Cancer,"Trastuzumab (Herceptin), Pertuzumab (Perjeta), Lapatinib, T-DM1 (Kadcyla), Docetaxel, Paclitaxel",Targeted therapy for HER2-positive tumors.
+Triple-Negative Breast Cancer,"Cyclophosphamide, Doxorubicin (Adriamycin), Paclitaxel (Taxol), Carboplatin, Pembrolizumab (Keytruda)",Chemotherapy and immunotherapy for aggressive triple-negative subtype.
+Metastatic Breast Cancer,"Palbociclib, Letrozole (Femara), Trastuzumab (Herceptin), Capecitabine (Xeloda), Docetaxel (Taxotere), Everolimus (Afinitor), Ibrance","Targeted therapy, chemotherapy, and endocrine therapy for advanced stages."
+Breast Cancer (Pre-surgery),"Dexamethasone, Ondansetron (Zofran), Midazolam, Fentanyl, Cefazolin","Reduce inflammation, prevent nausea, anesthesia adjuncts, and infection prevention."
+Breast Cancer (Post-surgery),"Acetaminophen, Ibuprofen, Morphine, Oxycodone, Enoxaparin (Lovenox), Ceftriaxone, Levofloxacin","Pain relief, infection prevention, and blood clot prevention."
+HER2-Positive Breast Cancer (Pre-surgery),"Dexamethasone, Ondansetron (Zofran), Midazolam, Fentanyl, Cefazolin","Swelling reduction, nausea prevention, and infection control before surgery."
+HER2-Positive Breast Cancer (Post-surgery),"Acetaminophen, Ibuprofen, Morphine, Oxycodone, Enoxaparin (Lovenox), Ceftriaxone, Levofloxacin","Post-surgery pain management, blood clot prevention, and infection control."
+Triple-Negative Breast Cancer (Pre-surgery),"Dexamethasone, Ondansetron (Zofran), Midazolam, Fentanyl, Cefazolin","Swelling reduction, nausea prevention, and infection control pre-surgery."
+Triple-Negative Breast Cancer (Post-surgery),"Acetaminophen, Ibuprofen, Morphine, Oxycodone, Enoxaparin (Lovenox), Ceftriaxone, Levofloxacin","Post-operative pain control, blood clot prevention, and infection management."
+Metastatic Breast Cancer (Pre-surgery),"Dexamethasone, Ondansetron (Zofran), Midazolam, Fentanyl, Cefazolin","Reduce swelling, nausea prevention, and infection control before surgery."
+Metastatic Breast Cancer (Post-surgery),"Acetaminophen, Ibuprofen, Morphine, Oxycodone, Enoxaparin (Lovenox), Ceftriaxone, Levofloxacin","Post-operative pain relief, infection prevention, and clot prevention."
+Bronchial Tumors (General Treatment),"Cisplatin, Carboplatin, Docetaxel, Paclitaxel, Etoposide, Gemcitabine, Vinorelbine, Pemetrexed, Erlotinib, Gefitinib, Pembrolizumab (Keytruda)","Chemotherapy, targeted therapy, and immunotherapy for tumor treatment."
+Non-small Cell Lung Cancer (NSCLC),"Cisplatin, Carboplatin, Docetaxel, Paclitaxel, Pemetrexed, Bevacizumab (Avastin), Erlotinib, Gefitinib, Pembrolizumab (Keytruda)","Chemotherapy, targeted therapy, and immunotherapy for advanced disease."
+Small Cell Lung Cancer (SCLC),"Etoposide, Cisplatin, Carboplatin, Cyclophosphamide, Doxorubicin, Vincristine, Irinotecan","Chemotherapy, as SCLC is typically treated with combination regimens."
+Metastatic Bronchial Tumors,"Pembrolizumab (Keytruda), Nivolumab (Opdivo), Atezolizumab (Tecentriq), Bevacizumab (Avastin)",Immunotherapy and targeted therapy for metastatic disease control.
+Pneumonectomy or Lobectomy Surgery (for Bronchial Tumors),"Cisplatin, Carboplatin, Gemcitabine, Pemetrexed, Vinorelbine, Bevacizumab (Avastin)",Chemotherapy and targeted therapy used as adjuvant treatment following surgery.
+Bronchial Tumors (Pre-surgery),"Dexamethasone, Ondansetron (Zofran), Midazolam, Fentanyl, Cefazolin, Mannitol","Reduce inflammation, prevent nausea, anesthesia adjuncts, and infection prevention."
+Bronchial Tumors (Post-surgery),"Acetaminophen, Ibuprofen, Morphine, Oxycodone, Enoxaparin (Lovenox), Ceftriaxone, Levofloxacin","Pain relief, infection prevention, and blood clot prevention."
+Non-small Cell Lung Cancer (Pre-surgery),"Dexamethasone, Ondansetron (Zofran), Midazolam, Fentanyl, Mannitol, Cefazolin","Swelling reduction, nausea prevention, and infection prevention."
+Non-small Cell Lung Cancer (Post-surgery),"Acetaminophen, Ibuprofen, Morphine, Oxycodone, Enoxaparin (Lovenox), Ceftriaxone, Levofloxacin","Post-surgery pain relief, infection control, and clot prevention."
+Small Cell Lung Cancer (Pre-surgery),"Dexamethasone, Ondansetron (Zofran), Midazolam, Fentanyl, Cefazolin","Reduce inflammation, control nausea, and infection prevention."
+Small Cell Lung Cancer (Post-surgery),"Acetaminophen, Ibuprofen, Morphine, Oxycodone, Enoxaparin (Lovenox), Ceftriaxone, Levofloxacin","Pain management, infection control, and prevention of blood clots."
+Metastatic Bronchial Tumors (Pre-surgery),"Dexamethasone, Ondansetron (Zofran), Midazolam, Fentanyl, Cefazolin","Reduce swelling, nausea, and infection prevention before surgery."
+Metastatic Bronchial Tumors (Post-surgery),"Acetaminophen, Ibuprofen, Morphine, Oxycodone, Enoxaparin (Lovenox), Ceftriaxone, Levofloxacin","Post-operative pain control, infection prevention, and clot prevention."
+Pneumonectomy or Lobectomy Surgery (Pre-surgery),"Dexamethasone, Ondansetron (Zofran), Midazolam, Fentanyl, Cefazolin","Swelling reduction, nausea prevention, and anesthesia adjuncts before surgery."
+Pneumonectomy or Lobectomy Surgery (Post-surgery),"Acetaminophen, Ibuprofen, Morphine, Oxycodone, Enoxaparin (Lovenox), Ceftriaxone, Levofloxacin","Pain management, infection control, and blood clot prevention post-surgery."
+Cervical Cancer (General Treatment),"Cisplatin, Carboplatin, Paclitaxel (Taxol), Docetaxel, 5-Fluorouracil (5-FU), Cyclophosphamide, Topotecan, Bevacizumab (Avastin), Pembrolizumab (Keytruda)","Chemotherapy, targeted therapy, and immunotherapy for tumor control."
+Early-Stage Cervical Cancer,"Cisplatin, 5-Fluorouracil (5-FU), Paclitaxel (Taxol), Carboplatin, Docetaxel",Chemotherapy for adjuvant treatment post-surgery or radiation therapy.
+Advanced-Stage Cervical Cancer,"Cisplatin, Paclitaxel (Taxol), Carboplatin, Bevacizumab (Avastin), Pembrolizumab (Keytruda), Topotecan",Chemotherapy and immunotherapy for advanced or metastatic cancer.
+Recurrent Cervical Cancer,"Cisplatin, Paclitaxel (Taxol), Topotecan, Carboplatin, Pembrolizumab (Keytruda), Bevacizumab (Avastin)",Chemotherapy and targeted therapy for recurrent tumors.
+Metastatic Cervical Cancer,"Paclitaxel (Taxol), Cisplatin, Carboplatin, Pembrolizumab (Keytruda), Bevacizumab (Avastin)","Chemotherapy, immunotherapy, and targeted therapy for metastatic disease management."
+Cervical Cancer (Pre-surgery),"Dexamethasone, Ondansetron (Zofran), Midazolam, Fentanyl, Cefazolin","Reduce inflammation, prevent nausea, anesthesia adjuncts, and infection prevention before surgery."
+Cervical Cancer (Post-surgery),"Acetaminophen, Ibuprofen, Morphine, Oxycodone, Enoxaparin (Lovenox), Ceftriaxone, Levofloxacin","Pain relief, infection prevention, and blood clot prevention after surgery."
+Early-Stage Cervical Cancer (Pre-surgery),"Dexamethasone, Ondansetron (Zofran), Midazolam, Fentanyl, Mannitol, Cefazolin","Swelling reduction, nausea prevention, and infection prevention pre-surgery."
+Early-Stage Cervical Cancer (Post-surgery),"Acetaminophen, Ibuprofen, Morphine, Oxycodone, Enoxaparin (Lovenox), Ceftriaxone, Levofloxacin","Post-surgery pain management, infection control, and clot prevention."
+Advanced-Stage Cervical Cancer (Pre-surgery),"Dexamethasone, Ondansetron (Zofran), Midazolam, Fentanyl, Cefazolin",Reduce swelling and control nausea before surgery.
+Advanced-Stage Cervical Cancer (Post-surgery),"Acetaminophen, Ibuprofen, Morphine, Oxycodone, Enoxaparin (Lovenox), Ceftriaxone, Levofloxacin","Post-operative pain relief, blood clot prevention, and infection control."
+Recurrent Cervical Cancer (Pre-surgery),"Dexamethasone, Ondansetron (Zofran), Midazolam, Fentanyl, Cefazolin",Pre-surgery swelling reduction and nausea prevention.
+Recurrent Cervical Cancer (Post-surgery),"Acetaminophen, Ibuprofen, Morphine, Oxycodone, Enoxaparin (Lovenox), Ceftriaxone, Levofloxacin","Pain management, infection control, and blood clot prevention post-surgery."
+Metastatic Cervical Cancer (Pre-surgery),"Dexamethasone, Ondansetron (Zofran), Midazolam, Fentanyl, Cefazolin","Swelling reduction, nausea prevention, and infection control before surgery."
+Metastatic Cervical Cancer (Post-surgery),"Acetaminophen, Ibuprofen, Morphine, Oxycodone, Enoxaparin (Lovenox), Ceftriaxone, Levofloxacin","Post-surgery pain relief, infection prevention, and blood clot prevention."
+Leukemia (Acute Lymphoblastic Leukemia - ALL),"Methotrexate, Vincristine, Dexamethasone, Prednisone, Cytarabine, Asparaginase, L-asparaginase, 6-Mercaptopurine, Cyclophosphamide",Chemotherapy agents for treatment and remission induction.
+Leukemia (Acute Myeloid Leukemia - AML),"Daunorubicin, Cytarabine, Idarubicin, Mitoxantrone, Etoposide, 6-Mercaptopurine, Vincristine",Chemotherapy for aggressive treatment of AML.
+Neuroblastoma,"Cyclophosphamide, Doxorubicin (Adriamycin), Vincristine, Etoposide, Cisplatin, Carboplatin, Retinoids","Chemotherapy, retinoids, and targeted therapies for neuroblastoma."
+Brain Tumors,"Methotrexate, Vincristine, Temozolomide, Carboplatin, Cisplatin, Lomustine (CCNU), Etoposide",Chemotherapy and radiation therapy for brain tumor control.
+Wilms' Tumor (Kidney Cancer),"Dactinomycin (Actinomycin D), Vincristine, Cyclophosphamide, Doxorubicin, Etoposide",Chemotherapy for treatment of kidney tumors in children.
+Rhabdomyosarcoma,"Vincristine, Cyclophosphamide, Actinomycin D, Doxorubicin (Adriamycin), Ifosfamide, Etoposide",Chemotherapy and targeted therapies for rhabdomyosarcoma treatment.
+Ewing's Sarcoma,"Vincristine, Doxorubicin (Adriamycin), Cyclophosphamide, Ifosfamide, Etoposide, Methotrexate",Chemotherapy for aggressive sarcoma treatment.
+Retinoblastoma,"Carboplatin, Vincristine, Etoposide, Cyclophosphamide, Melphalan","Chemotherapy, radiation therapy, and surgical treatment for retinoblastoma."
+Hodgkin's Lymphoma,"Doxorubicin (Adriamycin), Vincristine, Bleomycin, Prednisone, Cyclophosphamide",Chemotherapy and radiation for management of Hodgkin's lymphoma.
+Non-Hodgkin's Lymphoma,"Cyclophosphamide, Doxorubicin (Adriamycin), Vincristine, Prednisone, Methotrexate, Rituximab",Chemotherapy and immunotherapy for lymphoid tumors.
+Leukemia (Acute Lymphoblastic Leukemia - ALL) (Pre-surgery),"Dexamethasone, Prednisone, Vincristine, Methotrexate, L-Asparaginase",Pre-surgery chemotherapy to induce remission.
+Leukemia (Acute Lymphoblastic Leukemia - ALL) (Post-surgery),"Methotrexate, 6-Mercaptopurine, Vincristine, Cyclophosphamide, Prednisone",Post-surgery chemotherapy for further remission and prevention.
+Leukemia (Acute Myeloid Leukemia - AML) (Pre-surgery),"Daunorubicin, Cytarabine, Idarubicin, Vincristine, Etoposide",Chemotherapy for aggressive pre-surgery treatment.
+Leukemia (Acute Myeloid Leukemia - AML) (Post-surgery),"Daunorubicin, Cytarabine, Idarubicin, Vincristine, Etoposide",Post-surgery chemotherapy for further treatment.
+Neuroblastoma (Pre-surgery),"Cyclophosphamide, Doxorubicin (Adriamycin), Vincristine, Cisplatin, Etoposide",Chemotherapy to shrink tumor before surgery.
+Neuroblastoma (Post-surgery),"Cyclophosphamide, Doxorubicin (Adriamycin), Vincristine, Etoposide, Cisplatin",Chemotherapy to eliminate remaining tumor cells.
+Brain Tumors (Pre-surgery),"Methotrexate, Vincristine, Dexamethasone, Prednisone, Carboplatin",Pre-surgery chemotherapy and radiation therapy preparation.
+Brain Tumors (Post-surgery),"Temozolomide, Vincristine, Etoposide, Methotrexate, Lomustine",Post-surgery chemotherapy for brain tumor management.
+Wilms' Tumor (Kidney Cancer) (Pre-surgery),"Dactinomycin (Actinomycin D), Vincristine, Cyclophosphamide, Doxorubicin",Pre-surgery chemotherapy to shrink tumors.
+Wilms' Tumor (Kidney Cancer) (Post-surgery),"Dactinomycin (Actinomycin D), Vincristine, Cyclophosphamide, Doxorubicin",Post-surgery chemotherapy for remaining tumor cells.
+Rhabdomyosarcoma (Pre-surgery),"Vincristine, Cyclophosphamide, Actinomycin D, Doxorubicin, Ifosfamide",Pre-surgery chemotherapy to shrink tumor.
+Rhabdomyosarcoma (Post-surgery),"Vincristine, Cyclophosphamide, Actinomycin D, Doxorubicin, Ifosfamide",Post-surgery chemotherapy for complete remission.
+Ewing's Sarcoma (Pre-surgery),"Vincristine, Doxorubicin, Cyclophosphamide, Ifosfamide, Methotrexate",Pre-surgery chemotherapy for tumor reduction.
+Ewing's Sarcoma (Post-surgery),"Vincristine, Doxorubicin, Cyclophosphamide, Ifosfamide, Etoposide",Post-surgery chemotherapy for disease control.
+Retinoblastoma (Pre-surgery),"Carboplatin, Vincristine, Cyclophosphamide, Etoposide",Pre-surgery chemotherapy for tumor control.
+Retinoblastoma (Post-surgery),"Carboplatin, Vincristine, Cyclophosphamide, Etoposide, Melphalan",Post-surgery chemotherapy for any residual tumor cells.
+Hodgkin's Lymphoma (Pre-surgery),"Doxorubicin (Adriamycin), Vincristine, Bleomycin, Cyclophosphamide",Pre-surgery chemotherapy for tumor shrinkage.
+Hodgkin's Lymphoma (Post-surgery),"Doxorubicin (Adriamycin), Vincristine, Bleomycin, Cyclophosphamide",Post-surgery chemotherapy for remission and prevention.
+Non-Hodgkin's Lymphoma (Pre-surgery),"Cyclophosphamide, Doxorubicin (Adriamycin), Vincristine, Methotrexate",Pre-surgery chemotherapy to reduce tumor size.
+Non-Hodgkin's Lymphoma (Post-surgery),"Cyclophosphamide, Doxorubicin (Adriamycin), Vincristine, Methotrexate",Post-surgery chemotherapy for tumor elimination.
+Chordoma (Childhood),"Imatinib, Doxorubicin (Adriamycin), Cisplatin, Cyclophosphamide, Ifosfamide, Methotrexate, Temozolomide",Chemotherapy and targeted therapy for chordoma treatment.
+Chordoma (Relapsed),"Doxorubicin (Adriamycin), Ifosfamide, Cisplatin, Etoposide, Temozolomide",Chemotherapy for relapsed chordoma.
+Chordoma (Metastatic),"Imatinib, Temozolomide, Doxorubicin (Adriamycin), Cisplatin, Cyclophosphamide",Chemotherapy and targeted therapies for metastatic chordoma.
+Chordoma (Childhood) (Pre-surgery),"Dexamethasone, Ondansetron (Zofran), Midazolam, Fentanyl, Cefazolin","Reduce inflammation, nausea prevention, anesthesia adjuncts, and infection prevention before surgery."
+Chordoma (Childhood) (Post-surgery),"Acetaminophen, Ibuprofen, Morphine, Oxycodone, Enoxaparin (Lovenox), Ceftriaxone, Levofloxacin","Pain relief, infection prevention, and blood clot prevention after surgery."
+Chordoma (Relapsed) (Pre-surgery),"Dexamethasone, Ondansetron (Zofran), Midazolam, Fentanyl, Cefazolin","Pre-surgery inflammation reduction, nausea management, and infection prevention."
+Chordoma (Relapsed) (Post-surgery),"Acetaminophen, Ibuprofen, Morphine, Oxycodone, Enoxaparin (Lovenox), Ceftriaxone, Levofloxacin","Post-surgery pain relief, blood clot prevention, and infection control."
+Chordoma (Metastatic) (Pre-surgery),"Dexamethasone, Ondansetron (Zofran), Midazolam, Fentanyl, Cefazolin",Pre-surgery swelling reduction and nausea prevention.
+Chordoma (Metastatic) (Post-surgery),"Acetaminophen, Ibuprofen, Morphine, Oxycodone, Enoxaparin (Lovenox), Ceftriaxone, Levofloxacin","Post-surgery pain management, infection control, and blood clot prevention."
+Colorectal Cancer (General Treatment),"Fluorouracil (5-FU), Leucovorin, Capecitabine, Oxaliplatin, Irinotecan, Bevacizumab (Avastin), Cetuximab (Erbitux), Panitumumab (Vectibix), Trifluridine/tipiracil (Lonsurf)","Chemotherapy, targeted therapy, and immunotherapy for treatment and tumor control."
+Early-Stage Colorectal Cancer,"Fluorouracil (5-FU), Leucovorin, Oxaliplatin, Capecitabine",Adjuvant chemotherapy for early-stage disease to prevent recurrence.
+Advanced-Stage Colorectal Cancer,"Fluorouracil (5-FU), Leucovorin, Oxaliplatin, Irinotecan, Bevacizumab (Avastin), Cetuximab (Erbitux)",Chemotherapy and targeted therapy for advanced or metastatic cancer.
+Recurrent Colorectal Cancer,"Fluorouracil (5-FU), Leucovorin, Irinotecan, Oxaliplatin, Bevacizumab (Avastin), Cetuximab (Erbitux)",Chemotherapy and targeted therapies for recurrent disease.
+Metastatic Colorectal Cancer,"Fluorouracil (5-FU), Leucovorin, Capecitabine, Oxaliplatin, Irinotecan, Bevacizumab (Avastin), Cetuximab (Erbitux)","Chemotherapy, targeted therapy, and immunotherapy for metastatic disease management."
+Colorectal Cancer (Pre-surgery),"Dexamethasone, Ondansetron (Zofran), Midazolam, Fentanyl, Cefazolin","Swelling reduction, nausea prevention, and infection control before surgery."
+Colorectal Cancer (Post-surgery),"Acetaminophen, Ibuprofen, Morphine, Oxycodone, Enoxaparin (Lovenox), Ceftriaxone, Levofloxacin","Post-surgery pain relief, infection prevention, and blood clot prevention."
+Early-Stage Colorectal Cancer (Pre-surgery),"Dexamethasone, Ondansetron (Zofran), Midazolam, Fentanyl, Mannitol, Cefazolin","Pre-surgery preparation for chemotherapy or radiation therapy, nausea control, and infection prevention."
+Early-Stage Colorectal Cancer (Post-surgery),"Acetaminophen, Ibuprofen, Morphine, Oxycodone, Enoxaparin (Lovenox), Ceftriaxone, Levofloxacin","Pain relief, blood clot prevention, and infection control after surgery."
+Advanced-Stage Colorectal Cancer (Pre-surgery),"Dexamethasone, Ondansetron (Zofran), Midazolam, Fentanyl, Cefazolin","Pre-surgery swelling control, nausea management, and infection prevention."
+Advanced-Stage Colorectal Cancer (Post-surgery),"Acetaminophen, Ibuprofen, Morphine, Oxycodone, Enoxaparin (Lovenox), Ceftriaxone, Levofloxacin","Post-surgery pain relief, blood clot prevention, and infection control."
+Recurrent Colorectal Cancer (Pre-surgery),"Dexamethasone, Ondansetron (Zofran), Midazolam, Fentanyl, Cefazolin","Pre-surgery symptom control, anesthesia support, and infection prevention."
+Recurrent Colorectal Cancer (Post-surgery),"Acetaminophen, Ibuprofen, Morphine, Oxycodone, Enoxaparin (Lovenox), Ceftriaxone, Levofloxacin","Post-surgery pain management, infection prevention, and clot prevention."
+Metastatic Colorectal Cancer (Pre-surgery),"Dexamethasone, Ondansetron (Zofran), Midazolam, Fentanyl, Cefazolin","Pre-surgery swelling reduction, nausea control, and infection prevention."
+Metastatic Colorectal Cancer (Post-surgery),"Acetaminophen, Ibuprofen, Morphine, Oxycodone, Enoxaparin (Lovenox), Ceftriaxone, Levofloxacin","Post-surgery pain management, infection control, and blood clot prevention."
+"Embryonal Tumors (Medulloblastoma, CNS Tumors, Childhood)","Cisplatin, Vincristine, Doxorubicin (Adriamycin), Cyclophosphamide, Methotrexate, Temozolomide, Lomustine (CCNU), Etoposide",Chemotherapy for primary treatment of medulloblastoma and other CNS embryonal tumors.
+Medulloblastoma (Childhood),"Cisplatin, Vincristine, Cyclophosphamide, Etoposide, Methotrexate, Temozolomide, Doxorubicin (Adriamycin)",Chemotherapy for medulloblastoma treatment.
+Other CNS Embryonal Tumors,"Cisplatin, Vincristine, Cyclophosphamide, Methotrexate, Temozolomide, Etoposide, Lomustine (CCNU)","Chemotherapy for other CNS embryonal tumors (e.g., medulloblastoma)."
+Relapsed or Recurrent Medulloblastoma,"Cyclophosphamide, Vincristine, Cisplatin, Ifosfamide, Temozolomide, Doxorubicin (Adriamycin)",Chemotherapy for recurrent or relapsed medulloblastoma.
+Metastatic Medulloblastoma,"Vincristine, Cyclophosphamide, Cisplatin, Ifosfamide, Temozolomide, Doxorubicin (Adriamycin)",Chemotherapy for metastatic medulloblastoma treatment.
+"Embryonal Tumors (Medulloblastoma, CNS Tumors, Childhood) (Pre-surgery)","Dexamethasone, Ondansetron (Zofran), Fentanyl, Midazolam, Cefazolin","Pre-surgery inflammation reduction, nausea prevention, anesthesia adjuncts, and infection control."
+"Embryonal Tumors (Medulloblastoma, CNS Tumors, Childhood) (Post-surgery)","Acetaminophen, Ibuprofen, Morphine, Oxycodone, Enoxaparin (Lovenox), Ceftriaxone, Levofloxacin","Pain relief, infection prevention, and blood clot prevention after surgery."
+Medulloblastoma (Childhood) (Pre-surgery),"Dexamethasone, Ondansetron (Zofran), Fentanyl, Midazolam, Cefazolin","Reduce inflammation, nausea management, and prevent infection before surgery."
+Medulloblastoma (Childhood) (Post-surgery),"Acetaminophen, Ibuprofen, Morphine, Oxycodone, Enoxaparin (Lovenox), Ceftriaxone, Levofloxacin","Post-surgery pain relief, infection control, and blood clot prevention."
+Other CNS Embryonal Tumors (Pre-surgery),"Dexamethasone, Ondansetron (Zofran), Fentanyl, Midazolam, Cefazolin","Pre-surgery symptom control, anesthesia support, and infection prevention."
+Other CNS Embryonal Tumors (Post-surgery),"Acetaminophen, Ibuprofen, Morphine, Oxycodone, Enoxaparin (Lovenox), Ceftriaxone, Levofloxacin","Post-surgery pain management, infection prevention, and blood clot prevention."
+Relapsed or Recurrent Medulloblastoma (Pre-surgery),"Dexamethasone, Ondansetron (Zofran), Fentanyl, Midazolam, Cefazolin","Pre-surgery swelling reduction, nausea management, and infection control."
+Relapsed or Recurrent Medulloblastoma (Post-surgery),"Acetaminophen, Ibuprofen, Morphine, Oxycodone, Enoxaparin (Lovenox), Ceftriaxone, Levofloxacin","Pain management, infection prevention, and clot prevention after surgery."
+Metastatic Medulloblastoma (Pre-surgery),"Dexamethasone, Ondansetron (Zofran), Fentanyl, Midazolam, Cefazolin","Pre-surgery symptom management, nausea prevention, and infection control."
+Metastatic Medulloblastoma (Post-surgery),"Acetaminophen, Ibuprofen, Morphine, Oxycodone, Enoxaparin (Lovenox), Ceftriaxone, Levofloxacin","Post-surgery pain relief, blood clot prevention, and infection control."
+Endometrial Cancer,"Doxorubicin (Adriamycin), Paclitaxel, Carboplatin, Cisplatin, Methotrexate, Tamoxifen, Letrozole, Medroxyprogesterone, Mechlorethamine, Ifosfamide","Chemotherapy, hormone therapy, and targeted therapy for endometrial cancer treatment."
+Recurrent Endometrial Cancer,"Doxorubicin (Adriamycin), Paclitaxel, Carboplatin, Ifosfamide, Cisplatin, Medroxyprogesterone, Tamoxifen",Chemotherapy and hormone therapy for recurrent endometrial cancer.
+Metastatic Endometrial Cancer,"Doxorubicin (Adriamycin), Paclitaxel, Carboplatin, Cisplatin, Bevacizumab (Avastin), Letrozole",Chemotherapy and targeted therapy for metastatic endometrial cancer.
+Endometrial Cancer with High-Risk Features,"Doxorubicin (Adriamycin), Paclitaxel, Carboplatin, Cisplatin, Tamoxifen, Medroxyprogesterone",Chemotherapy and hormone therapy for high-risk endometrial cancer management.
+Endometrial Cancer (Pre-surgery),"Dexamethasone, Ondansetron (Zofran), Midazolam, Fentanyl, Cefazolin","Pre-surgery inflammation reduction, nausea prevention, and infection control."
+Endometrial Cancer (Post-surgery),"Acetaminophen, Ibuprofen, Morphine, Oxycodone, Enoxaparin (Lovenox), Ceftriaxone, Levofloxacin","Pain relief, infection prevention, and blood clot prevention after surgery."
+Recurrent Endometrial Cancer (Pre-surgery),"Dexamethasone, Ondansetron (Zofran), Midazolam, Fentanyl, Cefazolin","Pre-surgery swelling reduction, nausea control, and infection prevention."
+Recurrent Endometrial Cancer (Post-surgery),"Acetaminophen, Ibuprofen, Morphine, Oxycodone, Enoxaparin (Lovenox), Ceftriaxone, Levofloxacin","Pain management, infection prevention, and clot prevention after surgery."
+Metastatic Endometrial Cancer (Pre-surgery),"Dexamethasone, Ondansetron (Zofran), Midazolam, Fentanyl, Cefazolin","Pre-surgery nausea control, infection management, and swelling reduction."
+Metastatic Endometrial Cancer (Post-surgery),"Acetaminophen, Ibuprofen, Morphine, Oxycodone, Enoxaparin (Lovenox), Ceftriaxone, Levofloxacin","Post-surgery pain relief, infection control, and blood clot prevention."
+Endometrial Cancer with High-Risk Features (Pre-surgery),"Dexamethasone, Ondansetron (Zofran), Midazolam, Fentanyl, Cefazolin","Pre-surgery reduction of symptoms, anesthesia support, and infection control."
+Endometrial Cancer with High-Risk Features (Post-surgery),"Acetaminophen, Ibuprofen, Morphine, Oxycodone, Enoxaparin (Lovenox), Ceftriaxone, Levofloxacin","Post-surgery pain relief, infection prevention, and blood clot prevention"
+Ependymoma (Childhood),"Vincristine, Cyclophosphamide, Doxorubicin (Adriamycin), Etoposide, Methotrexate, Temozolomide, Lomustine (CCNU)",Chemotherapy for treatment of ependymoma in children.
+Recurrent Ependymoma,"Vincristine, Cyclophosphamide, Doxorubicin (Adriamycin), Temozolomide, Etoposide, Ifosfamide",Chemotherapy for recurrent or relapsed ependymoma.
+Metastatic Ependymoma,"Vincristine, Cyclophosphamide, Doxorubicin (Adriamycin), Etoposide, Temozolomide, Lomustine (CCNU)",Chemotherapy for metastatic ependymoma.
+Ependymoma (Childhood) (Pre-surgery),"Dexamethasone, Ondansetron (Zofran), Midazolam, Fentanyl, Cefazolin","Pre-surgery inflammation control, nausea management, and infection prevention."
+Ependymoma (Childhood) (Post-surgery),"Acetaminophen, Ibuprofen, Morphine, Oxycodone, Enoxaparin (Lovenox), Ceftriaxone, Levofloxacin","Pain relief, infection prevention, and blood clot prevention after surgery."
+Recurrent Ependymoma (Pre-surgery),"Dexamethasone, Ondansetron (Zofran), Midazolam, Fentanyl, Cefazolin","Swelling reduction, nausea prevention, and infection control before surgery."
+Recurrent Ependymoma (Post-surgery),"Acetaminophen, Ibuprofen, Morphine, Oxycodone, Enoxaparin (Lovenox), Ceftriaxone, Levofloxacin","Post-surgery pain management, infection control, and blood clot prevention."
+Metastatic Ependymoma (Pre-surgery),"Dexamethasone, Ondansetron (Zofran), Midazolam, Fentanyl, Cefazolin","Pre-surgery symptom management, nausea prevention, and infection control."
+Metastatic Ependymoma (Post-surgery),"Acetaminophen, Ibuprofen, Morphine, Oxycodone, Enoxaparin (Lovenox), Ceftriaxone, Levofloxacin","Post-surgery pain management, infection prevention, and clot prevention."
+Endometrial Cancer,"Doxorubicin (Adriamycin), Paclitaxel, Carboplatin, Cisplatin, Methotrexate, Tamoxifen, Letrozole, Medroxyprogesterone, Mechlorethamine, Ifosfamide","Chemotherapy, hormone therapy, and targeted therapy for endometrial cancer treatment."
+Recurrent Endometrial Cancer,"Doxorubicin (Adriamycin), Paclitaxel, Carboplatin, Ifosfamide, Cisplatin, Medroxyprogesterone, Tamoxifen",Chemotherapy and hormone therapy for recurrent endometrial cancer.
+Metastatic Endometrial Cancer,"Doxorubicin (Adriamycin), Paclitaxel, Carboplatin, Cisplatin, Bevacizumab (Avastin), Letrozole",Chemotherapy and targeted therapy for metastatic endometrial cancer.
+Endometrial Cancer with High-Risk Features,"Doxorubicin (Adriamycin), Paclitaxel, Carboplatin, Cisplatin, Tamoxifen, Medroxyprogesterone",Chemotherapy and hormone therapy for high-risk endometrial cancer management.
+Endometrial Cancer (Pre-surgery),"Dexamethasone, Ondansetron (Zofran), Midazolam, Fentanyl, Cefazolin","Pre-surgery inflammation reduction, nausea prevention, and infection control."
+Endometrial Cancer (Post-surgery),"Acetaminophen, Ibuprofen, Morphine, Oxycodone, Enoxaparin (Lovenox), Ceftriaxone, Levofloxacin","Pain relief, infection prevention, and blood clot prevention after surgery."
+Recurrent Endometrial Cancer (Pre-surgery),"Dexamethasone, Ondansetron (Zofran), Midazolam, Fentanyl, Cefazolin","Pre-surgery swelling reduction, nausea control, and infection prevention."
+Recurrent Endometrial Cancer (Post-surgery),"Acetaminophen, Ibuprofen, Morphine, Oxycodone, Enoxaparin (Lovenox), Ceftriaxone, Levofloxacin","Pain management, infection prevention, and clot prevention after surgery."
+Metastatic Endometrial Cancer (Pre-surgery),"Dexamethasone, Ondansetron (Zofran), Midazolam, Fentanyl, Cefazolin","Pre-surgery nausea control, infection management, and swelling reduction."
+Metastatic Endometrial Cancer (Post-surgery),"Acetaminophen, Ibuprofen, Morphine, Oxycodone, Enoxaparin (Lovenox), Ceftriaxone, Levofloxacin","Post-surgery pain relief, infection control, and blood clot prevention."
+Endometrial Cancer with High-Risk Features (Pre-surgery),"Dexamethasone, Ondansetron (Zofran), Midazolam, Fentanyl, Cefazolin","Pre-surgery reduction of symptoms, anesthesia support, and infection control."
+Endometrial Cancer with High-Risk Features (Post-surgery),"Acetaminophen, Ibuprofen, Morphine, Oxycodone, Enoxaparin (Lovenox), Ceftriaxone, Levofloxacin","Post-surgery pain relief, infection prevention, and blood clot prevention."
+Intraocular Melanoma,"Melphalan, Cisplatin, Dacarbazine, Temozolomide, Pembrolizumab (Keytruda), Ipilimumab (Yervoy), Bevacizumab (Avastin)","Chemotherapy, targeted therapy, and immunotherapy for treating intraocular melanoma."
+Recurrent Intraocular Melanoma,"Melphalan, Cisplatin, Dacarbazine, Temozolomide, Pembrolizumab (Keytruda), Ipilimumab (Yervoy)","Chemotherapy, immunotherapy, and targeted therapy for recurrent intraocular melanoma."
+Metastatic Intraocular Melanoma,"Ipilimumab (Yervoy), Pembrolizumab (Keytruda), Dabrafenib, Trametinib, Temozolomide",Immunotherapy and targeted therapy for metastatic intraocular melanoma.
+Intraocular Melanoma (Pre-surgery),"Dexamethasone, Ondansetron (Zofran), Midazolam, Fentanyl, Cefazolin","Pre-surgery inflammation control, nausea management, and infection prevention."
+Intraocular Melanoma (Post-surgery),"Acetaminophen, Ibuprofen, Morphine, Oxycodone, Enoxaparin (Lovenox), Ceftriaxone, Levofloxacin","Pain relief, infection prevention, and blood clot prevention after surgery."
+Recurrent Intraocular Melanoma (Pre-surgery),"Dexamethasone, Ondansetron (Zofran), Midazolam, Fentanyl, Cefazolin","Pre-surgery symptom control, nausea prevention, and infection management."
+Recurrent Intraocular Melanoma (Post-surgery),"Acetaminophen, Ibuprofen, Morphine, Oxycodone, Enoxaparin (Lovenox), Ceftriaxone, Levofloxacin","Post-surgery pain relief, infection prevention, and clot prevention."
+Metastatic Intraocular Melanoma (Pre-surgery),"Dexamethasone, Ondansetron (Zofran), Midazolam, Fentanyl, Cefazolin","Pre-surgery symptom management, nausea control, and infection prevention."
+Metastatic Intraocular Melanoma (Post-surgery),"Acetaminophen, Ibuprofen, Morphine, Oxycodone, Enoxaparin (Lovenox), Ceftriaxone, Levofloxacin","Post-surgery pain management, infection prevention, and blood clot prevention."
+Retinoblastoma,"Carboplatin, Vincristine, Etoposide, Cyclophosphamide, Melphalan, Topotecan, Methotrexate, Tamoxifen",Chemotherapy for the treatment of retinoblastoma.
+Recurrent Retinoblastoma,"Carboplatin, Vincristine, Etoposide, Cyclophosphamide, Topotecan, Temozolomide",Chemotherapy for recurrent retinoblastoma.
+Metastatic Retinoblastoma,"Carboplatin, Vincristine, Etoposide, Cyclophosphamide, Topotecan, Melphalan",Chemotherapy for metastatic retinoblastoma.
+Retinoblastoma (Pre-surgery),"Dexamethasone, Ondansetron (Zofran), Midazolam, Fentanyl, Cefazolin","Pre-surgery inflammation control, nausea management, and infection prevention."
+Retinoblastoma (Post-surgery),"Acetaminophen, Ibuprofen, Morphine, Oxycodone, Enoxaparin (Lovenox), Ceftriaxone, Levofloxacin","Pain relief, infection prevention, and blood clot prevention after surgery."
+Recurrent Retinoblastoma (Pre-surgery),"Dexamethasone, Ondansetron (Zofran), Midazolam, Fentanyl, Cefazolin","Pre-surgery symptom control, nausea prevention, and infection management."
+Recurrent Retinoblastoma (Post-surgery),"Acetaminophen, Ibuprofen, Morphine, Oxycodone, Enoxaparin (Lovenox), Ceftriaxone, Levofloxacin","Post-surgery pain relief, infection prevention, and clot prevention."
+Metastatic Retinoblastoma (Pre-surgery),"Dexamethasone, Ondansetron (Zofran), Midazolam, Fentanyl, Cefazolin","Pre-surgery symptom management, nausea control, and infection prevention."
+Metastatic Retinoblastoma (Post-surgery),"Acetaminophen, Ibuprofen, Morphine, Oxycodone, Enoxaparin (Lovenox), Ceftriaxone, Levofloxacin","Post-surgery pain management, infection prevention, and blood clot prevention."
