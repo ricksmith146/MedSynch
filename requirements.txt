@@ -5,3 +5,4 @@ pypdf2
 gunicorn
 pandas
 scikit-learn
+python-dotenv
