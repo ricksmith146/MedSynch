@@ -81,9 +81,9 @@ def index():
                 extracted_text = extract_text_from_image(file_path)
 
             drug_names = extract_drug_names(extracted_text)
-            return render_template('result.html', drugs=drug_names)
+            return render_template('away.html', drugs=drug_names)
 
-    return render_template('index.html')
+    return render_template('home.html')
 
 if __name__ == '__main__':
     app.run(debug=True)
